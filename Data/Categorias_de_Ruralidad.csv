@@ -1,0 +1,1123 @@
+﻿FID;ID_Indicat;Nom_Indica;Departamen;Departam_1;Municipaly;Municipali;Categoria_;Categoria1;Aglomeraci;Función_S;Shape__Area;Shape__Length
+1;12It12;Rurality level;47;Magdalena;47001;Santa Marta;Ciudades y aglomeraciones;Aglomeración;SA-Eje Caribe;Uninodal;2470975883;252715.4325
+2;12It12;Rurality level;47;Magdalena;47053;Aracataca;Intermedio;Rural;Fuera SC;Fuera SC;1807307641;228464.9492
+3;12It12;Rurality level;47;Magdalena;47189;Ciénaga;Ciudades y aglomeraciones;Función Subregional;SA-Eje Caribe;Uninodal;1374719127;221256.4317
+4;12It12;Rurality level;47;Magdalena;47288;Fundación;Intermedio;intermedio;Fuera SC;Fuera SC;1019907748;226923.6454
+5;12It12;Rurality level;76;Valle del Cauca;76113;Bugalagrande;Rural;intermedio;Fuera SC;Fuera SC;406383378.3;87939.39544
+6;12It12;Rurality level;52;Nariño;52227;Cumbal;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;919572209.3;136318.3783
+7;12It12;Rurality level;76;Valle del Cauca;76122;Caicedonia;Intermedio;intermedio;Fuera SC;Fuera SC;172536224.7;59314.84714
+8;12It12;Rurality level;76;Valle del Cauca;76126;Calima;Rural;Rural;Fuera SC;Fuera SC;791477384.2;150582.7441
+9;12It12;Rurality level;76;Valle del Cauca;76130;Candelaria;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;298182809.2;78755.90913
+10;12It12;Rurality level;52;Nariño;52233;Cumbitara;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;352210784.5;112046.9837
+11;12It12;Rurality level;76;Valle del Cauca;76147;Cartago;Ciudades y aglomeraciones;Aglomeración;SA-Eje Cafetero;Uninodal;243795765.3;74948.23616
+12;12It12;Rurality level;52;Nariño;52256;El Rosario;Rural;Rural Disperso;Fuera SC;Fuera SC;522630191.9;143118.3382
+13;12It12;Rurality level;52;Nariño;52385;La Llanada;Rural;Rural;Fuera SC;Fuera SC;241352558;111922.9326
+14;12It12;Rurality level;52;Nariño;52418;Los Andes;Rural;Rural Disperso;Fuera SC;Fuera SC;963923975.5;194310.9872
+15;12It12;Rurality level;52;Nariño;52540;Policarpa;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;433177433.6;109550.7238
+16;12It12;Rurality level;52;Nariño;52612;Ricaurte;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1067467567;192440.2802
+17;12It12;Rurality level;54;Norte de Santander;54174;Chitagá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1218407393;186405.5531
+18;12It12;Rurality level;54;Norte de Santander;54206;Convención;Rural;Rural;Fuera SC;Fuera SC;958303698.3;271338.2068
+19;12It12;Rurality level;54;Norte de Santander;54245;El Carmen;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1773684239;296802.6897
+20;12It12;Rurality level;54;Norte de Santander;54250;El Tarra;Rural;Rural;Fuera SC;Fuera SC;720128776.5;126849.6255
+21;12It12;Rurality level;54;Norte de Santander;54800;Teorama;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;955194984;240846.8391
+22;12It12;Rurality level;54;Norte de Santander;54810;Tibú;Rural;Rural;Fuera SC;Fuera SC;2764588455;360517.2145
+23;12It12;Rurality level;54;Norte de Santander;54820;Toledo;Rural Disperso;Rural;Fuera SC;Fuera SC;1504928073;207075.8634
+24;12It12;Rurality level;66;Risaralda;66456;Mistrató;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;579118616.3;111156.4328
+25;12It12;Rurality level;66;Risaralda;66572;Pueblo Rico;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;622815709.3;111132.3541
+26;12It12;Rurality level;76;Valle del Cauca;76100;Bolívar;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;757708215.6;140058.307
+27;12It12;Rurality level;76;Valle del Cauca;76233;Dagua;Rural Disperso;Rural;Fuera SC;Fuera SC;919697456.3;165915.2923
+28;12It12;Rurality level;81;Arauca;81300;Fortul;Rural;Rural;Fuera SC;Fuera SC;1182400375;200426.4008
+29;12It12;Rurality level;81;Arauca;81736;Saravena;Intermedio;intermedio;Fuera SC;Fuera SC;962245211.1;138055.3537
+30;12It12;Rurality level;81;Arauca;81794;Tame;Rural Disperso;Rural;Fuera SC;Fuera SC;5519279397;349208.9966
+31;12It12;Rurality level;85;Casanare;85125;Hato Corozal;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;5608909223;573737.2372
+32;12It12;Rurality level;85;Casanare;85250;Paz de Ariporo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;12280344891;623055.603
+33;12It12;Rurality level;86;Putumayo;86569;Puerto Caicedo;Rural;Rural;Fuera SC;Fuera SC;928969900.7;159442.0211
+34;12It12;Rurality level;5;Antioquia;5475;Murindó;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1294279667;171336.5336
+35;12It12;Rurality level;5;Antioquia;5873;Vigía del Fuerte;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1695074156;261080.3011
+36;12It12;Rurality level;18;Caquetá;18150;Cartagena del Chairá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;12858816548;690958.2507
+37;12It12;Rurality level;18;Caquetá;18753;San Vicente del Caguán;Rural;Rural Disperso;Fuera SC;Fuera SC;17621538701;896771.3196
+38;12It12;Rurality level;18;Caquetá;18756;Solano;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;42575985574;1719975.54
+39;12It12;Rurality level;18;Caquetá;18785;Solita;Rural;Rural;Fuera SC;Fuera SC;482667845.1;127889.8371
+40;12It12;Rurality level;19;Cauca;19318;Guapi;Rural;Rural;Fuera SC;Fuera SC;2577967915;221012.0042
+41;12It12;Rurality level;19;Cauca;19418;López;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3385149300;338576.4373
+42;12It12;Rurality level;19;Cauca;19809;Timbiquí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2067834075;231740.2823
+43;12It12;Rurality level;27;Chocó;27001;Quibdó;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;3555848035;459899.503
+44;12It12;Rurality level;27;Chocó;27006;Acandí;Rural;Rural;Fuera SC;Fuera SC;813106671.3;148727.3296
+45;12It12;Rurality level;27;Chocó;27025;Alto Baudo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2073321578;281228.0099
+46;12It12;Rurality level;27;Chocó;27050;Atrato;Rural;Rural;Fuera SC;Fuera SC;429248086.6;108722.5246
+47;12It12;Rurality level;27;Chocó;27073;Bagadó;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;808690859.7;145033.9973
+48;12It12;Rurality level;27;Chocó;27075;Bahía Solano;Rural Disperso;Rural;Fuera SC;Fuera SC;918860289.8;267283.8006
+49;12It12;Rurality level;27;Chocó;27077;Bajo Baudó;Rural Disperso;Rural;Fuera SC;Fuera SC;3527741354;473416.0461
+50;12It12;Rurality level;27;Chocó;27099;Bojaya;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3685768026;346122.2527
+51;12It12;Rurality level;27;Chocó;27135;El Cantón del San Pablo;Rural;Rural;Fuera SC;Fuera SC;391536871.5;111632.053
+52;12It12;Rurality level;27;Chocó;27150;Carmen del Darien;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3247696056;313711.4587
+53;12It12;Rurality level;27;Chocó;27160;Cértegui;Rural;Rural;Fuera SC;Fuera SC;433317254.9;122401.1616
+54;12It12;Rurality level;27;Chocó;27205;Condoto;Rural;Rural;Fuera SC;Fuera SC;473260142;141679.2843
+55;12It12;Rurality level;27;Chocó;27245;El Carmen de Atrato;Rural;Rural Disperso;Fuera SC;Fuera SC;845907499;136050.6342
+56;12It12;Rurality level;27;Chocó;27250;El Litoral del San Juan;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;4172902673;383796.4608
+57;12It12;Rurality level;27;Chocó;27361;Istmina;Rural;Rural;Fuera SC;Fuera SC;1899684239;409690.9556
+58;12It12;Rurality level;27;Chocó;27372;Juradó;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1263826796;283894.1889
+59;12It12;Rurality level;27;Chocó;27413;Lloró;Rural;Rural;Fuera SC;Fuera SC;848167270.6;149466.1477
+60;12It12;Rurality level;27;Chocó;27425;Medio Atrato;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1847184643;219762.2028
+61;12It12;Rurality level;27;Chocó;27430;Medio Baudó;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1383776283;217117.4589
+62;12It12;Rurality level;27;Chocó;27450;Medio San Juan;Rural;Rural Disperso;Fuera SC;Fuera SC;667471476.1;218656.9236
+63;12It12;Rurality level;27;Chocó;27491;Nóvita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;959885292.7;153934.0706
+64;12It12;Rurality level;27;Chocó;27495;Nuquí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;720180292;197442.9197
+65;12It12;Rurality level;27;Chocó;27580;Río Iro;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;326242424.5;105488.6677
+66;12It12;Rurality level;27;Chocó;27600;Río Quito;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;708327773;135450.463
+67;12It12;Rurality level;27;Chocó;27660;San José del Palmar;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1613070835;171921.7112
+68;12It12;Rurality level;27;Chocó;27745;Sipí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1585932171;210572.4466
+69;12It12;Rurality level;27;Chocó;27787;Tadó;Rural;Rural;Fuera SC;Fuera SC;727359184.6;175522.66
+70;12It12;Rurality level;27;Chocó;27800;Unguía;Rural;Rural;Fuera SC;Fuera SC;1222018129;165032.1914
+71;12It12;Rurality level;27;Chocó;27810;Unión Panamericana;Intermedio;Rural;Fuera SC;Fuera SC;174398675.6;76669.85845
+72;12It12;Rurality level;44;La Guajira;44847;Uribia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;8269666476;498485.6571
+73;12It12;Rurality level;50;Meta;50350;La Macarena;Rural Disperso;Rural;Fuera SC;Fuera SC;10932038858;530776.7459
+74;12It12;Rurality level;52;Nariño;52079;Barbacoas;Rural;Rural Disperso;Fuera SC;Fuera SC;2728409822;325432.6588
+75;12It12;Rurality level;52;Nariño;52250;El Charco;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2503221402;414311.0242
+76;12It12;Rurality level;52;Nariño;52390;La Tola;Rural;Rural;Fuera SC;Fuera SC;410322537.3;162099.6012
+77;12It12;Rurality level;52;Nariño;52427;Magüi;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1818803756;210957.9418
+78;12It12;Rurality level;52;Nariño;52473;Mosquera;Rural;Aglomeración Bogotá;Fuera SC;Fuera SC;767178639.5;138318.2469
+79;12It12;Rurality level;52;Nariño;52490;Olaya Herrera;Rural;Rural;Fuera SC;Fuera SC;1023687445;170568.6656
+80;12It12;Rurality level;52;Nariño;52520;Francisco Pizarro;Rural;Rural;Fuera SC;Fuera SC;519171069.8;137870.8536
+81;12It12;Rurality level;25;Cundinamarca;25483;Nariño;Rural;Rural;Fuera SC;Fuera SC;56499414.22;49893.87812
+82;12It12;Rurality level;52;Nariño;52621;Roberto Payán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1459977617;212663.8787
+83;12It12;Rurality level;52;Nariño;52696;Santa Bárbara;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1226316713;241775.9075
+84;12It12;Rurality level;52;Nariño;52835;San Andrés de Tumaco;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;3624814459;452702.9654
+85;12It12;Rurality level;76;Valle del Cauca;76109;Buenaventura;Ciudades y aglomeraciones;Aglomeración;SA-Cali-Norte Valle;Uninodal;6352893234;570413.5566
+86;12It12;Rurality level;86;Putumayo;86568;Puerto Asís;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;2832366652;306133.8886
+87;12It12;Rurality level;86;Putumayo;86571;Puerto Guzmán;Rural Disperso;Rural;Fuera SC;Fuera SC;4604439458;382049.128
+88;12It12;Rurality level;86;Putumayo;86573;Leguízamo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;11016539331;749136.1758
+89;12It12;Rurality level;91;Amazonas;91001;Leticia;Rural;Rural;SA-Otros SC;Uninodal;6225887813;362284.7986
+90;12It12;Rurality level;91;Amazonas;91263;El Encanto (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;10972829901;676874.4044
+91;12It12;Rurality level;91;Amazonas;91405;La Chorrera (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;12816286480;740775.7436
+92;12It12;Rurality level;91;Amazonas;91407;La Pedrera (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;13728362097;779129.082
+93;12It12;Rurality level;91;Amazonas;91430;La Victoria (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1433695190;215391.9105
+94;12It12;Rurality level;91;Amazonas;91460;Miriti - Paraná (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;16939443774;655881.1136
+95;12It12;Rurality level;91;Amazonas;91530;Puerto Alegría (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;8557337222;488411.942
+96;12It12;Rurality level;91;Amazonas;91536;Puerto Arica (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;13879829668;726347.8624
+97;12It12;Rurality level;91;Amazonas;91540;Puerto Nariño;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1518325047;204801.744
+98;12It12;Rurality level;91;Amazonas;91669;Puerto Santander (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;14772002353;871920.4132
+99;12It12;Rurality level;91;Amazonas;91798;Tarapacá (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;9225807065;514930.1461
+100;12It12;Rurality level;94;Guainía;94001;Inírida;Rural Disperso;Rural Disperso;SA-Otros SC;Uninodal;15999863728;827066.0752
+101;12It12;Rurality level;94;Guainía;94343;Barranco Minas (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;9482683792;599165.5006
+102;12It12;Rurality level;94;Guainía;94663;Mapiripana (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;4952537096;480403.7018
+103;12It12;Rurality level;94;Guainía;94883;San Felipe (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2910617625;376790.2488
+104;12It12;Rurality level;94;Guainía;94884;Puerto Colombia (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;15672722724;803527.6603
+105;12It12;Rurality level;94;Guainía;94885;La Guadalupe (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1171473324;170976.3352
+106;12It12;Rurality level;94;Guainía;94886;Cacahual (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2320763089;221213.6767
+107;12It12;Rurality level;94;Guainía;94887;Pana Pana (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;10213761644;640597.6279
+108;12It12;Rurality level;94;Guainía;94888;Morichal (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;8583008662;569632.2999
+109;12It12;Rurality level;95;Guaviare;95001;San José del Guaviare;Rural;Rural;SA-Otros SC;Uninodal;16893354752;1212209.711
+110;12It12;Rurality level;95;Guaviare;95015;Calamar;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;13650885295;564036.6825
+111;12It12;Rurality level;95;Guaviare;95025;El Retorno;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;12494396630;894861.7916
+112;12It12;Rurality level;95;Guaviare;95200;Miraflores;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;12873278219;574525.3213
+113;12It12;Rurality level;97;Vaupés;97001;Mitú;Rural Disperso;Rural Disperso;SA-Otros SC;Uninodal;16270994745;638227.098
+114;12It12;Rurality level;97;Vaupés;97161;Caruru;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;6406620262;403922.2103
+115;12It12;Rurality level;97;Vaupés;97511;Pacoa (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;14025795631;832359.4552
+116;12It12;Rurality level;97;Vaupés;97666;Taraira;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;6491562307;557089.8996
+117;12It12;Rurality level;97;Vaupés;97777;Papunaua (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;5574490488;447956.5149
+118;12It12;Rurality level;97;Vaupés;97889;Yavaraté (ANM);Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;4652666291;375585.0404
+119;12It12;Rurality level;99;Vichada;99001;Puerto Carreño;Rural Disperso;Rural Disperso;SA-Otros SC;Uninodal;12301222390;558290.8646
+120;12It12;Rurality level;99;Vichada;99524;La Primavera;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;18569695736;639338.8235
+121;12It12;Rurality level;99;Vichada;99773;Cumaribo;Rural Disperso;Rural;Fuera SC;Fuera SC;65945370121;1604225.563
+122;12It12;Rurality level;18;Caquetá;18205;Curillo;Rural;Rural;Fuera SC;Fuera SC;398180702.6;143204.052
+123;12It12;Rurality level;18;Caquetá;18592;Puerto Rico;Rural;Rural Disperso;Fuera SC;Fuera SC;4187949597;367643.0609
+124;12It12;Rurality level;20;Cesar;20570;Pueblo Bello;Rural Disperso;Rural;Fuera SC;Fuera SC;770813901.2;163920.9323
+125;12It12;Rurality level;44;La Guajira;44430;Maicao;Ciudades y aglomeraciones;Función Subregional;SA-Riohacha-Maicao;Uninodal;1847093111;260214.8673
+126;12It12;Rurality level;44;La Guajira;44560;Manaure;Intermedio;Rural;Fuera SC;Fuera SC;1703695979;197972.9945
+127;12It12;Rurality level;50;Meta;50325;Mapiripán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;12056801272;657031.7708
+128;12It12;Rurality level;50;Meta;50568;Puerto Gaitán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;17430770512;630627.2774
+129;12It12;Rurality level;76;Valle del Cauca;76243;El Águila;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;187122998.5;69761.41389
+130;12It12;Rurality level;76;Valle del Cauca;76246;El Cairo;Rural Disperso;Rural;Fuera SC;Fuera SC;217556327.2;62870.68305
+131;12It12;Rurality level;25;Cundinamarca;25513;Pacho;Intermedio;intermedio;Fuera SC;Fuera SC;411344266.5;101544.6817
+132;12It12;Rurality level;25;Cundinamarca;25506;Venecia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;119778292.9;46031.9892
+133;12It12;Rurality level;76;Valle del Cauca;76248;El Cerrito;Intermedio;intermedio;Fuera SC;Fuera SC;444130639.5;135590.4976
+134;12It12;Rurality level;25;Cundinamarca;25491;Nocaima;Intermedio;intermedio;Fuera SC;Fuera SC;65136791.72;32639.11041
+135;12It12;Rurality level;76;Valle del Cauca;76250;El Dovio;Rural;Rural;Fuera SC;Fuera SC;241927608.3;88343.99707
+136;12It12;Rurality level;25;Cundinamarca;25489;Nimaima;Intermedio;Rural;Fuera SC;Fuera SC;60574097.64;47469.828
+137;12It12;Rurality level;76;Valle del Cauca;76275;Florida;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;407699454.7;97371.21618
+138;12It12;Rurality level;25;Cundinamarca;25488;Nilo;Rural;Rural Disperso;Fuera SC;Fuera SC;224182414.9;71926.7987
+139;12It12;Rurality level;76;Valle del Cauca;76306;Ginebra;Intermedio;intermedio;Fuera SC;Fuera SC;270879852.8;74188.40443
+140;12It12;Rurality level;25;Cundinamarca;25486;Nemocón;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;99310456.3;42061.38738
+141;12It12;Rurality level;25;Cundinamarca;25530;Paratebueno;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;896362022.6;183122.7572
+142;12It12;Rurality level;25;Cundinamarca;25535;Pasca;Rural Disperso;Rural;Fuera SC;Fuera SC;271818963.2;68882.05944
+143;12It12;Rurality level;25;Cundinamarca;25572;Puerto Salgar;Rural;Rural;Fuera SC;Fuera SC;522715532.8;122471.5021
+144;12It12;Rurality level;25;Cundinamarca;25580;Pulí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;202279387.1;60765.63039
+145;12It12;Rurality level;25;Cundinamarca;25592;Quebradanegra;Rural;Rural;Fuera SC;Fuera SC;77360678.41;35066.7952
+146;12It12;Rurality level;25;Cundinamarca;25594;Quetame;Rural;Rural Disperso;Fuera SC;Fuera SC;144225170.4;48563.68743
+147;12It12;Rurality level;25;Cundinamarca;25596;Quipile;Rural;Rural Disperso;Fuera SC;Fuera SC;132192667.3;52965.53188
+148;12It12;Rurality level;25;Cundinamarca;25524;Pandi;Rural;Rural;Fuera SC;Fuera SC;72746507.01;39278.95471
+149;12It12;Rurality level;25;Cundinamarca;25518;Paime;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;177380574;59568.79922
+150;12It12;Rurality level;25;Cundinamarca;25599;Apulo;Intermedio;intermedio;Fuera SC;Fuera SC;128717915.5;59697.58669
+151;12It12;Rurality level;25;Cundinamarca;25612;Ricaurte;Intermedio;Aglomeracion Girardot;A-Girardot;En aglomeración;135012648.1;52772.94037
+152;12It12;Rurality level;25;Cundinamarca;25645;San Antonio del Tequendama;Intermedio;intermedio;Fuera SC;Fuera SC;88824428.24;35127.70091
+153;12It12;Rurality level;25;Cundinamarca;25649;San Bernardo;Rural;Rural;Fuera SC;Fuera SC;251637580.7;85645.16738
+154;12It12;Rurality level;25;Cundinamarca;25653;San Cayetano;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;296188103.6;75825.49389
+155;12It12;Rurality level;25;Cundinamarca;25658;San Francisco;Intermedio;intermedio;Fuera SC;Fuera SC;119705986.2;51792.91992
+156;12It12;Rurality level;25;Cundinamarca;25662;San Juan de Río Seco;Rural;Rural;Fuera SC;Fuera SC;321463641.6;86673.8162
+157;12It12;Rurality level;25;Cundinamarca;25718;Sasaima;Rural;Rural;Fuera SC;Fuera SC;114827409.6;49262.49289
+158;12It12;Rurality level;25;Cundinamarca;25736;Sesquilé;Rural;Aglomeración Bogotá;A-Bogotá;En aglomeración;148187894.9;54693.73608
+159;12It12;Rurality level;25;Cundinamarca;25740;Sibaté;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;126019752.1;47356.78494
+160;12It12;Rurality level;25;Cundinamarca;25743;Silvania;Intermedio;intermedio;Fuera SC;Fuera SC;163160281.9;55547.56567
+161;12It12;Rurality level;25;Cundinamarca;25745;Simijaca;Intermedio;intermedio;Fuera SC;Fuera SC;98933315.63;43129.29791
+162;12It12;Rurality level;25;Cundinamarca;25754;Soacha;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;188751562.6;82145.47199
+163;12It12;Rurality level;25;Cundinamarca;25099;Bojacá;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;103758978.4;48168.5416
+164;12It12;Rurality level;25;Cundinamarca;25095;Bituima;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;65129862.19;41859.83005
+165;12It12;Rurality level;25;Cundinamarca;25086;Beltrán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;184674559.2;86401.24551
+166;12It12;Rurality level;25;Cundinamarca;25053;Arbeláez;Intermedio;intermedio;Fuera SC;Fuera SC;145714556;77977.58996
+167;12It12;Rurality level;25;Cundinamarca;25040;Anolaima;Intermedio;intermedio;Fuera SC;Fuera SC;117622182.2;46229.95814
+168;12It12;Rurality level;25;Cundinamarca;25035;Anapoima;Intermedio;intermedio;Fuera SC;Fuera SC;125179931.4;55961.25056
+169;12It12;Rurality level;25;Cundinamarca;25148;Caparrapí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;621475516.1;110900.5547
+170;12It12;Rurality level;25;Cundinamarca;25151;Caqueza;Intermedio;intermedio;Fuera SC;Fuera SC;111987057.8;45729.51313
+171;12It12;Rurality level;25;Cundinamarca;25154;Carmen de Carupa;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;305339246.3;84039.10749
+172;12It12;Rurality level;25;Cundinamarca;25168;Chaguaní;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;177010886.8;56988.99736
+173;12It12;Rurality level;25;Cundinamarca;25175;Chía;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;80873871.62;40964.22316
+174;12It12;Rurality level;25;Cundinamarca;25178;Chipaque;Rural;Rural;Fuera SC;Fuera SC;153915651.4;69820.1627
+175;12It12;Rurality level;25;Cundinamarca;25019;Albán;Intermedio;intermedio;Fuera SC;Fuera SC;58171561.51;39765.63667
+176;12It12;Rurality level;25;Cundinamarca;25126;Cajicá;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;46553566.8;29214.6227
+177;12It12;Rurality level;25;Cundinamarca;25001;Agua de Dios;Intermedio;intermedio;Fuera SC;Fuera SC;86226146.45;38341.09639
+178;12It12;Rurality level;25;Cundinamarca;25123;Cachipay;Intermedio;intermedio;Fuera SC;Fuera SC;54388734.9;38233.57637
+179;12It12;Rurality level;25;Cundinamarca;25120;Cabrera;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;424402231.5;100536.5158
+180;12It12;Rurality level;25;Cundinamarca;25181;Choachí;Intermedio;intermedio;Fuera SC;Fuera SC;217611937.1;72175.07975
+181;12It12;Rurality level;25;Cundinamarca;25183;Chocontá;Intermedio;intermedio;Fuera SC;Fuera SC;299831555.3;93969.24655
+182;12It12;Rurality level;25;Cundinamarca;25200;Cogua;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;135218492.2;56621.37257
+183;12It12;Rurality level;25;Cundinamarca;25214;Cota;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;56119601.86;36260.60225
+184;12It12;Rurality level;25;Cundinamarca;25224;Cucunubá;Rural;Rural;Fuera SC;Fuera SC;113853707.5;50671.25099
+185;12It12;Rurality level;25;Cundinamarca;25245;El Colegio;Intermedio;intermedio;Fuera SC;Fuera SC;115921943.2;47540.65634
+186;12It12;Rurality level;25;Cundinamarca;25258;El Peñón;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;138409516.4;57601.08899
+187;12It12;Rurality level;25;Cundinamarca;25260;El Rosal;Intermedio;intermedio;Fuera SC;Fuera SC;86154898.74;36548.36548
+188;12It12;Rurality level;25;Cundinamarca;25269;Facatativá;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;160372680.2;54263.72755
+189;12It12;Rurality level;25;Cundinamarca;25279;Fomeque;Rural;Rural;Fuera SC;Fuera SC;461008400.1;97119.75476
+190;12It12;Rurality level;25;Cundinamarca;25281;Fosca;Rural;Rural;Fuera SC;Fuera SC;111012350.8;47833.41205
+191;12It12;Rurality level;25;Cundinamarca;25286;Funza;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;68381907.14;32974.47944
+192;12It12;Rurality level;25;Cundinamarca;25793;Tausa;Rural Disperso;Aglomeración Bogotá;A-Bogotá;En aglomeración;207171119.6;77647.53793
+193;12It12;Rurality level;25;Cundinamarca;25785;Tabio;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;76197290.31;37801.54255
+194;12It12;Rurality level;25;Cundinamarca;25781;Sutatausa;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;64650011.68;31580.65998
+195;12It12;Rurality level;25;Cundinamarca;25823;Topaipí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;143080797;64220.62192
+196;12It12;Rurality level;25;Cundinamarca;25839;Ubalá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;531963495.5;139129.2837
+197;12It12;Rurality level;25;Cundinamarca;25841;Ubaque;Rural;Rural;Fuera SC;Fuera SC;108774086.9;48199.52184
+198;12It12;Rurality level;25;Cundinamarca;25779;Susa;Intermedio;intermedio;Fuera SC;Fuera SC;100961351.5;49413.44152
+199;12It12;Rurality level;25;Cundinamarca;25817;Tocancipá;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;82147435.36;41158.83739
+200;12It12;Rurality level;25;Cundinamarca;25777;Supatá;Rural Disperso;Rural;Fuera SC;Fuera SC;125535199.7;46876.53897
+201;12It12;Rurality level;25;Cundinamarca;25815;Tocaima;Intermedio;intermedio;Fuera SC;Fuera SC;249995097.8;93921.85462
+202;12It12;Rurality level;25;Cundinamarca;25772;Suesca;Intermedio;intermedio;Fuera SC;Fuera SC;173568387.8;80360.17837
+203;12It12;Rurality level;25;Cundinamarca;25807;Tibirita;Rural;Rural;Fuera SC;Fuera SC;54286850.63;31344.10143
+204;12It12;Rurality level;25;Cundinamarca;25862;Vergara;Rural;Rural Disperso;Fuera SC;Fuera SC;153156379.1;55442.42594
+205;12It12;Rurality level;25;Cundinamarca;25867;Vianí;Intermedio;intermedio;Fuera SC;Fuera SC;68630092.41;43939.14929
+206;12It12;Rurality level;25;Cundinamarca;25871;Villagómez;Rural Disperso;Rural;Fuera SC;Fuera SC;57872589.1;39409.03193
+207;12It12;Rurality level;25;Cundinamarca;25873;Villapinzón;Intermedio;intermedio;Fuera SC;Fuera SC;231178079.3;77365.17084
+208;12It12;Rurality level;25;Cundinamarca;25875;Villeta;Intermedio;intermedio;Fuera SC;Fuera SC;143895113;48957.03121
+209;12It12;Rurality level;25;Cundinamarca;25878;Viotá;Intermedio;intermedio;Fuera SC;Fuera SC;201561915.2;63437.78378
+210;12It12;Rurality level;25;Cundinamarca;25769;Subachoque;Intermedio;intermedio;Fuera SC;Fuera SC;217269509.4;67078.40461
+211;12It12;Rurality level;25;Cundinamarca;25805;Tibacuy;Rural;Rural;Fuera SC;Fuera SC;84141497.11;42802.08351
+212;12It12;Rurality level;25;Cundinamarca;25851;Útica;Intermedio;Rural;Fuera SC;Fuera SC;94123155.96;45124.44762
+213;12It12;Rurality level;25;Cundinamarca;25899;Zipaquirá;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;197067229.2;75925.48382
+214;12It12;Rurality level;25;Cundinamarca;25758;Sopó;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;114106062.8;49598.02858
+215;12It12;Rurality level;25;Cundinamarca;25799;Tenjo;Intermedio;intermedio;Fuera SC;Fuera SC;115320704.3;51436.19436
+216;12It12;Rurality level;25;Cundinamarca;25845;Une;Rural;Rural;Fuera SC;Fuera SC;212692846.8;82342.65425
+217;12It12;Rurality level;25;Cundinamarca;25898;Zipacón;Intermedio;Rural;Fuera SC;Fuera SC;54784394.52;32980.26151
+218;12It12;Rurality level;25;Cundinamarca;25797;Tena;Intermedio;intermedio;Fuera SC;Fuera SC;55829192.03;35370.98403
+219;12It12;Rurality level;25;Cundinamarca;25843;Villa de San Diego de Ubate;Intermedio;intermedio;Fuera SC;Fuera SC;108518174.7;40796.02625
+220;12It12;Rurality level;25;Cundinamarca;25885;Yacopí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;971054790.4;164999.8826
+221;12It12;Rurality level;25;Cundinamarca;25312;Granada;Intermedio;intermedio;Fuera SC;Fuera SC;63514617.01;34119.58395
+222;12It12;Rurality level;25;Cundinamarca;25307;Girardot;Ciudades y aglomeraciones;Nodo;A-Girardot;Centro aglomeración - Nodo;130514798.7;57970.54265
+223;12It12;Rurality level;25;Cundinamarca;25299;Gama;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;105855080.1;43998.51
+224;12It12;Rurality level;25;Cundinamarca;25297;Gachetá;Rural;Rural;Fuera SC;Fuera SC;259876982.8;71807.48925
+225;12It12;Rurality level;25;Cundinamarca;25295;Gachancipá;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;41684335.12;25903.80313
+226;12It12;Rurality level;25;Cundinamarca;25293;Gachala;Rural;Rural;Fuera SC;Fuera SC;390677922.3;109736.2682
+227;12It12;Rurality level;25;Cundinamarca;25290;Fusagasugá;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;195952674;96175.02363
+228;12It12;Rurality level;25;Cundinamarca;25288;Fúquene;Rural;Rural;Fuera SC;Fuera SC;72862651.38;39343.10507
+229;12It12;Rurality level;25;Cundinamarca;25320;Guaduas;Rural;Rural;Fuera SC;Fuera SC;784717890.2;152898.2013
+230;12It12;Rurality level;25;Cundinamarca;25322;Guasca;Rural;Rural;Fuera SC;Fuera SC;370165747.7;84085.92757
+231;12It12;Rurality level;25;Cundinamarca;25324;Guataquí;Rural;Rural;Fuera SC;Fuera SC;87716559.96;50074.585
+232;12It12;Rurality level;25;Cundinamarca;25326;Guatavita;Rural Disperso;Aglomeración Bogotá;A-Bogotá;En aglomeración;252901234.9;69681.17718
+233;12It12;Rurality level;25;Cundinamarca;25328;Guayabal de Siquima;Rural;Rural;Fuera SC;Fuera SC;56246555.8;35001.53665
+234;12It12;Rurality level;25;Cundinamarca;25335;Guayabetal;Rural;Rural;Fuera SC;Fuera SC;220855038.3;81465.12977
+235;12It12;Rurality level;25;Cundinamarca;25339;Gutiérrez;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;451324246.5;109734.7691
+236;12It12;Rurality level;25;Cundinamarca;25368;Jerusalén;Rural Disperso;Rural;Fuera SC;Fuera SC;218387247.4;63156.96053
+237;12It12;Rurality level;25;Cundinamarca;25317;Guachetá;Intermedio;intermedio;Fuera SC;Fuera SC;164160737.2;56003.2139
+238;12It12;Rurality level;25;Cundinamarca;25372;Junín;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;354244824.2;99957.68775
+239;12It12;Rurality level;25;Cundinamarca;25377;La Calera;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;326580740.2;93651.15575
+240;12It12;Rurality level;25;Cundinamarca;25386;La Mesa;Intermedio;intermedio;Fuera SC;Fuera SC;149806599.9;54672.01777
+241;12It12;Rurality level;25;Cundinamarca;25394;La Palma;Intermedio;Rural;Fuera SC;Fuera SC;200505793.7;73238.17119
+242;12It12;Rurality level;25;Cundinamarca;25398;La Peña;Rural;Rural Disperso;Fuera SC;Fuera SC;127910065.2;51330.42975
+243;12It12;Rurality level;25;Cundinamarca;25402;La Vega;Intermedio;intermedio;Fuera SC;Fuera SC;157770093.3;60297.55981
+244;12It12;Rurality level;25;Cundinamarca;25407;Lenguazaque;Rural;Rural;Fuera SC;Fuera SC;160656217.2;56775.40213
+245;12It12;Rurality level;25;Cundinamarca;25426;Macheta;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;235845892.7;69121.53952
+246;12It12;Rurality level;25;Cundinamarca;25430;Madrid;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;121813700.8;57812.6535
+247;12It12;Rurality level;25;Cundinamarca;25436;Manta;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;108852679.7;48371.07838
+248;12It12;Rurality level;25;Cundinamarca;25438;Medina;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1206238802;144916.1048
+249;12It12;Rurality level;25;Cundinamarca;25473;Mosquera;Ciudades y aglomeraciones;Aglomeración Bogotá;A-Bogotá;En aglomeración;105025752.3;50880.35125
+250;12It12;Rurality level;11;Bogotá, D.C.;11001;Bogotá, D.C.;Ciudades y aglomeraciones;Nodo;A-Bogotá;Centro aglomeración;1649052591;332885.7594
+251;12It12;Rurality level;15;Boyacá;15001;Tunja;Ciudades y aglomeraciones;Nodo;A-Tunja;Centro aglomeración;116854653;51942.33735
+252;12It12;Rurality level;15;Boyacá;15022;Almeida;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;58814673.2;34439.8847
+253;12It12;Rurality level;15;Boyacá;15047;Aquitania;Rural;Rural;Fuera SC;Fuera SC;967775470.6;174507.2901
+254;12It12;Rurality level;15;Boyacá;15051;Arcabuco;Rural;Rural;Fuera SC;Fuera SC;130941494.6;60217.5971
+255;12It12;Rurality level;15;Boyacá;15087;Belén;Intermedio;Rural;Fuera SC;Fuera SC;167453311.1;59219.17866
+256;12It12;Rurality level;15;Boyacá;15090;Berbeo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;55421178.29;43471.36328
+257;12It12;Rurality level;15;Boyacá;15092;Betéitiva;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;106012177.8;44696.77123
+258;12It12;Rurality level;15;Boyacá;15097;Boavita;Rural;Rural;Fuera SC;Fuera SC;143103317.5;62032.54419
+259;12It12;Rurality level;15;Boyacá;15104;Boyacá;Rural;intermedio;Fuera SC;Fuera SC;45471273.27;29683.08515
+260;12It12;Rurality level;15;Boyacá;15106;Briceño;Rural;Rural Disperso;Fuera SC;Fuera SC;60365028.57;37380.82744
+261;12It12;Rurality level;15;Boyacá;15109;Buenavista;Rural;Rural Disperso;Fuera SC;Fuera SC;113888129;43785.5226
+262;12It12;Rurality level;15;Boyacá;15114;Busbanzá;Rural;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;26451537.81;19787.06917
+263;12It12;Rurality level;15;Boyacá;15131;Caldas;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;81037695.21;36021.72853
+264;12It12;Rurality level;15;Boyacá;15135;Campohermoso;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;304305215.5;82470.00481
+265;12It12;Rurality level;15;Boyacá;15162;Cerinza;Intermedio;Aglomeración Duitama;A-Duitama;En aglomeración;63415730.37;32458.64676
+266;12It12;Rurality level;15;Boyacá;15172;Chinavita;Rural;Rural;Fuera SC;Fuera SC;134060980.4;51066.47211
+267;12It12;Rurality level;15;Boyacá;15176;Chiquinquirá;Intermedio;intermedio;Fuera SC;Fuera SC;170442352.9;75259.85783
+268;12It12;Rurality level;15;Boyacá;15183;Chita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;691907112.8;135286.0013
+269;12It12;Rurality level;15;Boyacá;15185;Chitaraque;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;160065699.6;54355.67166
+270;12It12;Rurality level;15;Boyacá;15187;Chivatá;Intermedio;Aglomeracion Tunja;A-Tunja;En aglomeración;47177716.55;36931.77807
+271;12It12;Rurality level;15;Boyacá;15189;Ciénega;Rural;Rural;Fuera SC;Fuera SC;55234488.25;37305.41341
+272;12It12;Rurality level;15;Boyacá;15204;Cómbita;Rural;Aglomeracion Tunja;A-Tunja;En aglomeración;147184270.5;63558.13588
+273;12It12;Rurality level;15;Boyacá;15212;Coper;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;152411289.6;58306.76136
+274;12It12;Rurality level;15;Boyacá;15215;Corrales;Rural;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;61461995.76;37627.53593
+275;12It12;Rurality level;15;Boyacá;15377;Labranzagrande;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;595523876.9;123550.1851
+276;12It12;Rurality level;15;Boyacá;15380;La Capilla;Rural;Rural;Fuera SC;Fuera SC;59706336.5;29745.95655
+277;12It12;Rurality level;15;Boyacá;15401;La Victoria;Rural;Rural;Fuera SC;Fuera SC;23616558.96;22306.1079
+278;12It12;Rurality level;15;Boyacá;15403;La Uvita;Rural;Rural;Fuera SC;Fuera SC;165465717.2;59559.96986
+279;12It12;Rurality level;15;Boyacá;15542;Pesca;Rural Disperso;Rural;Fuera SC;Fuera SC;258809446.5;83441.9065
+280;12It12;Rurality level;15;Boyacá;15550;Pisba;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;469839076.8;98306.19931
+281;12It12;Rurality level;15;Boyacá;15572;Puerto Boyacá;Intermedio;intermedio;Fuera SC;Fuera SC;1545780853;214583.8367
+282;12It12;Rurality level;15;Boyacá;15580;Quípama;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;171389510.1;70924.7968
+283;12It12;Rurality level;15;Boyacá;15755;Socotá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;612530499.4;117185.233
+284;12It12;Rurality level;15;Boyacá;15757;Socha;Rural;intermedio;Fuera SC;Fuera SC;156226521.6;54899.39688
+285;12It12;Rurality level;15;Boyacá;15759;Sogamoso;Ciudades y aglomeraciones;Nodo;A-Sogamoso;Centro aglomeración;212844540;68952.53566
+286;12It12;Rurality level;15;Boyacá;15761;Somondoco;Rural;Rural Disperso;Fuera SC;Fuera SC;59649373.31;34869.17347
+287;12It12;Rurality level;15;Boyacá;15842;Umbita;Rural;Rural;Fuera SC;Fuera SC;144278329.7;52522.52317
+288;12It12;Rurality level;15;Boyacá;15861;Ventaquemada;Intermedio;Rural;Fuera SC;Fuera SC;170478848;64429.1401
+289;12It12;Rurality level;15;Boyacá;15879;Viracachá;Rural;Rural Disperso;Fuera SC;Fuera SC;59067706.93;33168.11859
+290;12It12;Rurality level;15;Boyacá;15897;Zetaquira;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;259645756.1;87644.96421
+291;12It12;Rurality level;15;Boyacá;15218;Covarachía;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;100547667.2;47731.15611
+292;12It12;Rurality level;15;Boyacá;15224;Cucaita;Intermedio;intermedio;Fuera SC;Fuera SC;44979434.92;28185.87483
+293;12It12;Rurality level;15;Boyacá;15226;Cuítiva;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;43325005.34;30239.24263
+294;12It12;Rurality level;15;Boyacá;15232;Chíquiza;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;121078559.3;50253.75448
+295;12It12;Rurality level;15;Boyacá;15236;Chivor;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;106982026.4;54033.55035
+296;12It12;Rurality level;15;Boyacá;15238;Duitama;Ciudades y aglomeraciones;Nodo;A-Duitama;Centro aglomeración;233480806;88265.85893
+297;12It12;Rurality level;15;Boyacá;15244;El Cocuy;Rural;Rural;Fuera SC;Fuera SC;242233381.2;68063.25801
+298;12It12;Rurality level;15;Boyacá;15248;El Espino;Intermedio;Rural;Fuera SC;Fuera SC;69223346.51;33762.78682
+299;12It12;Rurality level;15;Boyacá;15272;Firavitoba;Intermedio;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;119212132.6;45789.26211
+300;12It12;Rurality level;15;Boyacá;15276;Floresta;Rural;Rural;Fuera SC;Fuera SC;84695734.49;41273.34134
+301;12It12;Rurality level;15;Boyacá;15293;Gachantivá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;91647434.54;41800.64831
+302;12It12;Rurality level;15;Boyacá;15296;Gameza;Rural;Rural Disperso;Fuera SC;Fuera SC;127675360.3;60661.27412
+303;12It12;Rurality level;15;Boyacá;15299;Garagoa;Intermedio;intermedio;Fuera SC;Fuera SC;195252411;60453.09935
+304;12It12;Rurality level;15;Boyacá;15317;Guacamayas;Rural Disperso;Rural;Fuera SC;Fuera SC;58669209.98;29627.10773
+305;12It12;Rurality level;15;Boyacá;15322;Guateque;Intermedio;intermedio;Fuera SC;Fuera SC;33246252.57;27162.43586
+306;12It12;Rurality level;15;Boyacá;15325;Guayatá;Rural;Rural;Fuera SC;Fuera SC;101695094.3;40783.54006
+307;12It12;Rurality level;15;Boyacá;15362;Iza;Intermedio;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;35036040.96;24017.52399
+308;12It12;Rurality level;15;Boyacá;15367;Jenesano;Intermedio;intermedio;Fuera SC;Fuera SC;67024673.39;41151.14805
+309;12It12;Rurality level;15;Boyacá;15368;Jericó;Rural Disperso;Rural;Fuera SC;Fuera SC;131614860.9;51697.03382
+310;12It12;Rurality level;15;Boyacá;15407;Villa de Leyva;Intermedio;intermedio;Fuera SC;Fuera SC;131637563;55327.95784
+311;12It12;Rurality level;15;Boyacá;15425;Macanal;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;205901890.5;65222.00498
+312;12It12;Rurality level;15;Boyacá;15442;Maripí;Rural;Rural Disperso;Fuera SC;Fuera SC;167111463.6;58882.47673
+313;12It12;Rurality level;15;Boyacá;15455;Miraflores;Rural;Rural;Fuera SC;Fuera SC;268160842.1;72921.93772
+314;12It12;Rurality level;15;Boyacá;15464;Mongua;Rural;Rural;Fuera SC;Fuera SC;365340658.6;84630.22835
+315;12It12;Rurality level;15;Boyacá;15466;Monguí;Intermedio;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;68161791.77;32403.9554
+316;12It12;Rurality level;15;Boyacá;15469;Moniquirá;Intermedio;intermedio;Fuera SC;Fuera SC;229564984.3;72827.04215
+317;12It12;Rurality level;15;Boyacá;15476;Motavita;Intermedio;Aglomeracion Tunja;A-Tunja;En aglomeración;60913130.29;35337.80453
+318;12It12;Rurality level;15;Boyacá;15480;Muzo;Intermedio;intermedio;Fuera SC;Fuera SC;137337481.9;59905.30106
+319;12It12;Rurality level;15;Boyacá;15491;Nobsa;Intermedio;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;55893744.15;31504.8088
+320;12It12;Rurality level;15;Boyacá;15494;Nuevo Colón;Intermedio;Rural;Fuera SC;Fuera SC;47813143.89;34617.90826
+321;12It12;Rurality level;15;Boyacá;15500;Oicatá;Rural Disperso;Aglomeracion Tunja;A-Tunja;En aglomeración;61807178.39;32514.28597
+322;12It12;Rurality level;15;Boyacá;15507;Otanche;Rural;Rural;Fuera SC;Fuera SC;487525814.5;110342.9501
+323;12It12;Rurality level;15;Boyacá;15511;Pachavita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;64735037.61;34851.99888
+324;12It12;Rurality level;15;Boyacá;15514;Páez;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;343428780.5;93344.60456
+325;12It12;Rurality level;15;Boyacá;15516;Paipa;Intermedio;intermedio;Fuera SC;Fuera SC;314201820.8;100214.7638
+326;12It12;Rurality level;15;Boyacá;15518;Pajarito;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;316263691.4;80956.9519
+327;12It12;Rurality level;15;Boyacá;15522;Panqueba;Rural;Rural;Fuera SC;Fuera SC;40454253.54;31621.72808
+328;12It12;Rurality level;15;Boyacá;15531;Pauna;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;249918597.2;82186.85256
+329;12It12;Rurality level;15;Boyacá;15533;Paya;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;449198811.3;109148.5484
+330;12It12;Rurality level;15;Boyacá;15537;Paz de Río;Rural;Rural;Fuera SC;Fuera SC;129503024;50244.79791
+331;12It12;Rurality level;15;Boyacá;15599;Ramiriquí;Intermedio;intermedio;Fuera SC;Fuera SC;129191839.4;70916.79733
+332;12It12;Rurality level;15;Boyacá;15600;Ráquira;Rural;Rural Disperso;Fuera SC;Fuera SC;229608909.8;65602.01334
+333;12It12;Rurality level;15;Boyacá;15621;Rondón;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;204201506.3;64825.93692
+334;12It12;Rurality level;15;Boyacá;15632;Saboyá;Rural Disperso;Rural;Fuera SC;Fuera SC;255375556.6;74031.32886
+335;12It12;Rurality level;15;Boyacá;15638;Sáchica;Intermedio;intermedio;Fuera SC;Fuera SC;63428043.16;33547.48529
+336;12It12;Rurality level;15;Boyacá;15646;Samacá;Intermedio;intermedio;Fuera SC;Fuera SC;166997790.7;62691.82959
+337;12It12;Rurality level;15;Boyacá;15660;San Eduardo;Rural;Rural;Fuera SC;Fuera SC;111472392.5;44374.43308
+338;12It12;Rurality level;15;Boyacá;15664;San José de Pare;Rural;Rural;Fuera SC;Fuera SC;75138615.9;34733.78635
+339;12It12;Rurality level;15;Boyacá;15667;San Luis de Gaceno;Rural;Rural;Fuera SC;Fuera SC;470106035.1;107375.0038
+340;12It12;Rurality level;15;Boyacá;15673;San Mateo;Rural;Rural;Fuera SC;Fuera SC;124247756.6;51645.82389
+341;12It12;Rurality level;15;Boyacá;15676;San Miguel de Sema;Rural;Rural Disperso;Fuera SC;Fuera SC;93092854.47;43389.41679
+342;12It12;Rurality level;15;Boyacá;15681;San Pablo de Borbur;Rural;Rural Disperso;Fuera SC;Fuera SC;194300709.7;54523.91614
+343;12It12;Rurality level;15;Boyacá;15686;Santana;Intermedio;intermedio;Fuera SC;Fuera SC;68159645.97;31360.24409
+344;12It12;Rurality level;15;Boyacá;15690;Santa María;Rural Disperso;Rural;Fuera SC;Fuera SC;321530424.5;96770.88554
+345;12It12;Rurality level;15;Boyacá;15693;Santa Rosa de Viterbo;Intermedio;intermedio;Fuera SC;Fuera SC;121374157.1;69083.31045
+346;12It12;Rurality level;15;Boyacá;15696;Santa Sofía;Rural Disperso;Rural;Fuera SC;Fuera SC;78103316.7;37116.68072
+347;12It12;Rurality level;15;Boyacá;15720;Sativanorte;Rural Disperso;Rural;Fuera SC;Fuera SC;167840691;65130.31927
+348;12It12;Rurality level;15;Boyacá;15723;Sativasur;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;51480773;43477.09864
+349;12It12;Rurality level;15;Boyacá;15740;Siachoque;Rural;Rural;Fuera SC;Fuera SC;126051075.7;44969.74675
+350;12It12;Rurality level;15;Boyacá;15753;Soatá;Intermedio;intermedio;Fuera SC;Fuera SC;132010312.9;48116.03793
+351;12It12;Rurality level;15;Boyacá;15762;Sora;Rural;Rural;Fuera SC;Fuera SC;47291624.72;29537.00088
+352;12It12;Rurality level;15;Boyacá;15763;Sotaquirá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;285678130.5;77680.08069
+353;12It12;Rurality level;15;Boyacá;15764;Soracá;Rural;intermedio;Fuera SC;Fuera SC;60426391.2;31620.56619
+354;12It12;Rurality level;15;Boyacá;15774;Susacón;Rural;Rural Disperso;Fuera SC;Fuera SC;183881337.8;71196.64494
+355;12It12;Rurality level;15;Boyacá;15776;Sutamarchán;Rural;intermedio;Fuera SC;Fuera SC;106892179.8;44753.10202
+356;12It12;Rurality level;15;Boyacá;15778;Sutatenza;Intermedio;intermedio;Fuera SC;Fuera SC;41059142.93;29505.67538
+357;12It12;Rurality level;15;Boyacá;15790;Tasco;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;206789553.9;77437.01947
+358;12It12;Rurality level;15;Boyacá;15798;Tenza;Rural;Rural;Fuera SC;Fuera SC;47664807.85;31868.48593
+359;12It12;Rurality level;15;Boyacá;15804;Tibaná;Rural;Rural;Fuera SC;Fuera SC;128633271.4;52048.77003
+360;12It12;Rurality level;15;Boyacá;15806;Tibasosa;Intermedio;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;92430128.07;45922.55751
+361;12It12;Rurality level;15;Boyacá;15808;Tinjacá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;82087591.67;37206.11346
+362;12It12;Rurality level;15;Boyacá;15810;Tipacoque;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;72444263.64;37195.62889
+363;12It12;Rurality level;15;Boyacá;15814;Toca;Intermedio;intermedio;Fuera SC;Fuera SC;170696974.3;52703.66664
+364;12It12;Rurality level;15;Boyacá;15816;Togüí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;106493230.3;45603.55608
+365;12It12;Rurality level;15;Boyacá;15820;Tópaga;Intermedio;Aglomeración Sogamoso;A-Sogamoso;En aglomeración;36784020.57;25060.63608
+366;12It12;Rurality level;15;Boyacá;15822;Tota;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;199982285.8;67196.91459
+367;12It12;Rurality level;15;Boyacá;15832;Tununguá;Rural Disperso;Rural;Fuera SC;Fuera SC;32275968.14;22628.17391
+368;12It12;Rurality level;15;Boyacá;15835;Turmequé;Intermedio;intermedio;Fuera SC;Fuera SC;76648627.74;38587.36571
+369;12It12;Rurality level;15;Boyacá;15837;Tuta;Rural;Rural Disperso;Fuera SC;Fuera SC;169217000;59681.70278
+370;12It12;Rurality level;15;Boyacá;15839;Tutazá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;123588703.1;47423.26219
+371;12It12;Rurality level;23;Córdoba;23001;Montería;Ciudades y aglomeraciones;Aglomeración;SA-Montería-Sincelejo;Uninodal;3230121406;265809.4341
+372;12It12;Rurality level;23;Córdoba;23068;Ayapel;Intermedio;intermedio;Fuera SC;Fuera SC;2022687486;198953.8177
+373;12It12;Rurality level;23;Córdoba;23079;Buenavista;Rural;Rural;Fuera SC;Fuera SC;849924883.5;140116.115
+374;12It12;Rurality level;23;Córdoba;23090;Canalete;Rural;Rural Disperso;Fuera SC;Fuera SC;437141845;84035.82431
+375;12It12;Rurality level;23;Córdoba;23162;Cereté;Intermedio;intermedio;Fuera SC;Fuera SC;300440827.1;112435.6769
+376;12It12;Rurality level;23;Córdoba;23168;Chimá;Rural Disperso;Rural;Fuera SC;Fuera SC;335952906.2;80144.10286
+377;12It12;Rurality level;23;Córdoba;23182;Chinú;Intermedio;intermedio;Fuera SC;Fuera SC;654654338.6;130288.3942
+378;12It12;Rurality level;23;Córdoba;23189;Ciénaga de Oro;Intermedio;intermedio;Fuera SC;Fuera SC;651649024.6;139797.6848
+379;12It12;Rurality level;23;Córdoba;23300;Cotorra;Intermedio;intermedio;Fuera SC;Fuera SC;91930356.17;46696.24733
+380;12It12;Rurality level;23;Córdoba;23350;La Apartada;Intermedio;intermedio;Fuera SC;Fuera SC;286176743.3;82267.61978
+381;12It12;Rurality level;23;Córdoba;23417;Lorica;Intermedio;intermedio;Fuera SC;Fuera SC;981654079;162803.3078
+382;12It12;Rurality level;23;Córdoba;23419;Los Córdobas;Rural;Rural;Fuera SC;Fuera SC;373486994.1;108691.3768
+383;12It12;Rurality level;23;Córdoba;23464;Momil;Intermedio;intermedio;Fuera SC;Fuera SC;165327176.7;57573.80016
+384;12It12;Rurality level;23;Córdoba;23500;Moñitos;Intermedio;intermedio;Fuera SC;Fuera SC;203204242.5;72546.41498
+385;12It12;Rurality level;23;Córdoba;23555;Planeta Rica;Intermedio;intermedio;Fuera SC;Fuera SC;1175959221;197746.7491
+386;12It12;Rurality level;23;Córdoba;23570;Pueblo Nuevo;Rural;Rural Disperso;Fuera SC;Fuera SC;890538795.5;150425.7393
+387;12It12;Rurality level;23;Córdoba;23574;Puerto Escondido;Rural;Rural;Fuera SC;Fuera SC;431034808;90376.19483
+388;12It12;Rurality level;23;Córdoba;23586;Purísima;Intermedio;intermedio;Fuera SC;Fuera SC;121188663.7;62787.65382
+389;12It12;Rurality level;23;Córdoba;23660;Sahagún;Intermedio;intermedio;Fuera SC;Fuera SC;982481538.5;160150.2934
+390;12It12;Rurality level;23;Córdoba;23670;San Andrés Sotavento;Intermedio;intermedio;Fuera SC;Fuera SC;208467441.7;69750.29012
+391;12It12;Rurality level;23;Córdoba;23672;San Antero;Intermedio;intermedio;Fuera SC;Fuera SC;212841499.3;64951.57605
+392;12It12;Rurality level;23;Córdoba;23675;San Bernardo del Viento;Intermedio;intermedio;Fuera SC;Fuera SC;339458053.1;91202.20108
+393;12It12;Rurality level;23;Córdoba;23678;San Carlos;Rural;Rural;Fuera SC;Fuera SC;459549493.3;104811.1278
+394;12It12;Rurality level;23;Córdoba;23682;San José de Uré(1);Rural;Rural;Fuera SC;Fuera SC;540957650.7;131551.7168
+395;12It12;Rurality level;23;Córdoba;23686;San Pelayo;Rural;intermedio;Fuera SC;Fuera SC;445244296.7;135174.3022
+396;12It12;Rurality level;23;Córdoba;23815;Tuchín;Intermedio;intermedio;Fuera SC;Fuera SC;106661056.7;48319.79229
+397;12It12;Rurality level;23;Córdoba;23855;Valencia;Rural;Rural;Fuera SC;Fuera SC;941553313.9;146007.0451
+398;12It12;Rurality level;8;Atlántico;8001;Barranquilla;Ciudades y aglomeraciones;Nodo;A-Barranquilla;Centro aglomeración;157475191;72156.57614
+399;12It12;Rurality level;8;Atlántico;8078;Baranoa;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;124147503.2;55704.01987
+400;12It12;Rurality level;8;Atlántico;8137;Campo de La Cruz;Intermedio;intermedio;Fuera SC;Fuera SC;106233637;56603.30301
+401;12It12;Rurality level;8;Atlántico;8141;Candelaria;Intermedio;intermedio;Fuera SC;Fuera SC;133273238.9;48103.20831
+402;12It12;Rurality level;8;Atlántico;8296;Galapa;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;103411553.7;39702.4203
+403;12It12;Rurality level;8;Atlántico;8372;Juan de Acosta;Intermedio;intermedio;Fuera SC;Fuera SC;174314939.7;63028.32334
+404;12It12;Rurality level;8;Atlántico;8421;Luruaco;Intermedio;intermedio;Fuera SC;Fuera SC;230198176.9;71642.88879
+405;12It12;Rurality level;8;Atlántico;8433;Malambo;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;98185256.41;43586.61634
+406;12It12;Rurality level;8;Atlántico;8436;Manatí;Intermedio;intermedio;Fuera SC;Fuera SC;223898372.8;65394.9425
+407;12It12;Rurality level;8;Atlántico;8520;Palmar de Varela;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;92851577.78;39338.80757
+408;12It12;Rurality level;8;Atlántico;8549;Piojó;Rural;Rural;Fuera SC;Fuera SC;264998399;69610.48314
+409;12It12;Rurality level;8;Atlántico;8558;Polonuevo;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;75435787.59;35690.25311
+410;12It12;Rurality level;8;Atlántico;8560;Ponedera;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;223696486.9;71697.76065
+411;12It12;Rurality level;8;Atlántico;8573;Puerto Colombia;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;74366459.01;47134.19611
+412;12It12;Rurality level;8;Atlántico;8606;Repelón;Intermedio;intermedio;Fuera SC;Fuera SC;373341551.2;78091.29987
+413;12It12;Rurality level;8;Atlántico;8634;Sabanagrande;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;45003459.59;28857.0226
+414;12It12;Rurality level;8;Atlántico;8638;Sabanalarga;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;417583581.9;83918.01587
+415;12It12;Rurality level;8;Atlántico;8675;Santa Lucía;Intermedio;intermedio;Fuera SC;Fuera SC;59809108.85;37583.78117
+416;12It12;Rurality level;8;Atlántico;8685;Santo Tomás;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;72249976.69;39577.13138
+417;12It12;Rurality level;8;Atlántico;8758;Soledad;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;65903735.66;34516.868
+418;12It12;Rurality level;8;Atlántico;8770;Suan;Intermedio;intermedio;Fuera SC;Fuera SC;41968179.57;28167.99286
+419;12It12;Rurality level;8;Atlántico;8832;Tubará;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;195804760.1;57345.30277
+420;12It12;Rurality level;8;Atlántico;8849;Usiacurí;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;99999870.66;41637.06777
+421;12It12;Rurality level;88;Archipiélago de San Andrés;88001;San Andrés;Intermedio;Intermedio;SA-Otros SC;Uninodal;21483375.05;22585.97683
+422;12It12;Rurality level;88;Archipiélago de San Andrés;88564;Providencia;Intermedio;intermedio;Fuera SC;Fuera SC;19439394.63;18394.22109
+423;12It12;Rurality level;5;Antioquia;5001;Medellín;Ciudades y aglomeraciones;Nodo;A-Medellín;Centro aglomeración;379237134.3;91566.27733
+424;12It12;Rurality level;5;Antioquia;5101;Ciudad Bolívar;Intermedio;intermedio;Fuera SC;Fuera SC;260372881.6;67536.81672
+425;12It12;Rurality level;5;Antioquia;5107;Briceño;Rural Disperso;Rural;Fuera SC;Fuera SC;385032435;97792.36699
+426;12It12;Rurality level;5;Antioquia;5113;Buriticá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;365671044.7;94016.01123
+427;12It12;Rurality level;5;Antioquia;5120;Cáceres;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1927628331;238080.1771
+428;12It12;Rurality level;5;Antioquia;5093;Betulia;Intermedio;Rural;Fuera SC;Fuera SC;270980371.7;81418.85626
+429;12It12;Rurality level;5;Antioquia;5091;Betania;Intermedio;intermedio;Fuera SC;Fuera SC;179098576.5;62798.32852
+430;12It12;Rurality level;5;Antioquia;5088;Bello;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;154177340.3;58453.61556
+431;12It12;Rurality level;5;Antioquia;5086;Belmira;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;294491103.9;104160.8595
+432;12It12;Rurality level;5;Antioquia;5079;Barbosa;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;211326089.8;66303.18898
+433;12It12;Rurality level;5;Antioquia;5059;Armenia;Rural;Rural;Fuera SC;Fuera SC;113386538.5;50009.24419
+434;12It12;Rurality level;5;Antioquia;5055;Argelia;Rural Disperso;Rural;Fuera SC;Fuera SC;259256312.3;95717.93256
+435;12It12;Rurality level;5;Antioquia;5051;Arboletes;Intermedio;Rural;Fuera SC;Fuera SC;783416717.3;156898.8733
+436;12It12;Rurality level;5;Antioquia;5045;Apartadó;Ciudades y aglomeraciones;Intermedio;SA-Apartadó-Turbo;Uninodal;548585196.3;120580.8396
+437;12It12;Rurality level;5;Antioquia;5044;Anza;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;257704193.2;70012.72679
+438;12It12;Rurality level;5;Antioquia;5042;Santafé de Antioquia;Rural;Rural;Fuera SC;Fuera SC;532079568;106333.1802
+439;12It12;Rurality level;5;Antioquia;5040;Anorí;Rural;Rural;Fuera SC;Fuera SC;1435434937;182318.5273
+440;12It12;Rurality level;5;Antioquia;5038;Angostura;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;349787799;83226.91653
+441;12It12;Rurality level;5;Antioquia;5036;Angelópolis;Intermedio;intermedio;Fuera SC;Fuera SC;84499951.41;40489.20728
+442;12It12;Rurality level;5;Antioquia;5034;Andes;Intermedio;intermedio;Fuera SC;Fuera SC;405665039.2;107397.0588
+443;12It12;Rurality level;5;Antioquia;5031;Amalfi;Rural;Rural;Fuera SC;Fuera SC;1229669208;175069.0477
+444;12It12;Rurality level;5;Antioquia;5030;Amagá;Intermedio;intermedio;Fuera SC;Fuera SC;85161728.19;39953.03885
+445;12It12;Rurality level;5;Antioquia;5021;Alejandría;Rural;Rural;Fuera SC;Fuera SC;127989260.1;62290.88647
+446;12It12;Rurality level;5;Antioquia;5004;Abriaquí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;300205325.3;76367.06939
+447;12It12;Rurality level;5;Antioquia;5002;Abejorral;Rural;Rural;Fuera SC;Fuera SC;517249199.6;102376.2335
+448;12It12;Rurality level;5;Antioquia;5895;Zaragoza;Rural;Rural;Fuera SC;Fuera SC;1189453874;195642.0157
+449;12It12;Rurality level;5;Antioquia;5893;Yondó;Rural Disperso;Rural;Fuera SC;Fuera SC;1926020342;228191.4487
+450;12It12;Rurality level;5;Antioquia;5890;Yolombó;Rural;Rural;Fuera SC;Fuera SC;1040144358;234971.714
+451;12It12;Rurality level;5;Antioquia;5887;Yarumal;Intermedio;intermedio;Fuera SC;Fuera SC;741847782.5;165171.3266
+452;12It12;Rurality level;5;Antioquia;5885;Yalí;Rural;Rural;Fuera SC;Fuera SC;447404231.2;107637.9495
+453;12It12;Rurality level;5;Antioquia;5861;Venecia;Intermedio;intermedio;Fuera SC;Fuera SC;144710286.9;56244.11311
+454;12It12;Rurality level;5;Antioquia;5858;Vegachí;Rural;Rural;Fuera SC;Fuera SC;534333234.6;131998.228
+455;12It12;Rurality level;5;Antioquia;5856;Valparaíso;Rural;intermedio;Fuera SC;Fuera SC;127159345.1;55948.30606
+456;12It12;Rurality level;5;Antioquia;5854;Valdivia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;591881918.2;132162.0151
+457;12It12;Rurality level;5;Antioquia;5842;Uramita;Rural;Rural;Fuera SC;Fuera SC;272891258.8;90310.67072
+458;12It12;Rurality level;5;Antioquia;5837;Turbo;Ciudades y aglomeraciones;Función Subregional;SA-Apartadó-Turbo;Uninodal;2965720492;481082.1605
+459;12It12;Rurality level;5;Antioquia;5819;Toledo;Rural Disperso;Rural;Fuera SC;Fuera SC;127176188.6;47225.22104
+460;12It12;Rurality level;5;Antioquia;5809;Titiribí;Intermedio;intermedio;Fuera SC;Fuera SC;142622568.3;47355.5957
+461;12It12;Rurality level;5;Antioquia;5792;Tarso;Intermedio;intermedio;Fuera SC;Fuera SC;121688071.8;43535.82233
+462;12It12;Rurality level;5;Antioquia;5790;Tarazá;Intermedio;Rural;Fuera SC;Fuera SC;1161575260;206496.6049
+463;12It12;Rurality level;5;Antioquia;5789;Támesis;Intermedio;intermedio;Fuera SC;Fuera SC;252924740.7;76064.76234
+464;12It12;Rurality level;5;Antioquia;5761;Sopetrán;Intermedio;intermedio;Fuera SC;Fuera SC;227825592.2;77730.70261
+465;12It12;Rurality level;5;Antioquia;5756;Sonson;Rural;Rural;Fuera SC;Fuera SC;1371908732;302591.3771
+466;12It12;Rurality level;5;Antioquia;5736;Segovia;Intermedio;intermedio;Fuera SC;Fuera SC;1152272257;191980.3411
+467;12It12;Rurality level;5;Antioquia;5697;El Santuario;Intermedio;intermedio;Fuera SC;Fuera SC;84614149.8;45929.08717
+468;12It12;Rurality level;5;Antioquia;5690;Santo Domingo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;277410828.2;92913.84767
+469;12It12;Rurality level;5;Antioquia;5686;Santa Rosa de Osos;Rural;Rural;Fuera SC;Fuera SC;881806517.3;159852.3893
+470;12It12;Rurality level;5;Antioquia;5679;Santa Bárbara;Intermedio;intermedio;Fuera SC;Fuera SC;196767779;75185.79245
+471;12It12;Rurality level;5;Antioquia;5306;Giraldo;Rural;intermedio;Fuera SC;Fuera SC;98906979.51;44213.39802
+472;12It12;Rurality level;5;Antioquia;5282;Fredonia;Intermedio;intermedio;Fuera SC;Fuera SC;263887458;81176.17256
+473;12It12;Rurality level;5;Antioquia;5266;Envigado;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;80284251.16;42738.26486
+474;12It12;Rurality level;5;Antioquia;5264;Entrerrios;Rural;intermedio;Fuera SC;Fuera SC;219819070.2;70185.33366
+475;12It12;Rurality level;5;Antioquia;5250;El Bagre;Intermedio;intermedio;Fuera SC;Fuera SC;1604411807;210356.7495
+476;12It12;Rurality level;5;Antioquia;5240;Ebéjico;Rural;Rural;Fuera SC;Fuera SC;241312149.6;71069.08876
+477;12It12;Rurality level;5;Antioquia;5237;Don Matías;Intermedio;intermedio;Fuera SC;Fuera SC;207118706.8;80037.50738
+478;12It12;Rurality level;5;Antioquia;5212;Copacabana;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;70069271.76;41566.28097
+479;12It12;Rurality level;5;Antioquia;5209;Concordia;Intermedio;intermedio;Fuera SC;Fuera SC;253425401.2;74533.78266
+480;12It12;Rurality level;5;Antioquia;5206;Concepción;Rural;Rural;Fuera SC;Fuera SC;210446429.8;58988.71075
+481;12It12;Rurality level;5;Antioquia;5197;Cocorná;Rural;intermedio;Fuera SC;Fuera SC;237621349.6;95999.75753
+482;12It12;Rurality level;5;Antioquia;5190;Cisneros;Intermedio;intermedio;Fuera SC;Fuera SC;46410888.81;32258.22619
+483;12It12;Rurality level;5;Antioquia;5172;Chigorodó;Intermedio;intermedio;Fuera SC;Fuera SC;738721182.3;123552.7288
+484;12It12;Rurality level;5;Antioquia;5154;Caucasia;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;1478762954;242611.9429
+485;12It12;Rurality level;5;Antioquia;5150;Carolina;Rural;Rural;Fuera SC;Fuera SC;145704126.7;52694.53127
+486;12It12;Rurality level;5;Antioquia;5148;El Carmen de Viboral;Intermedio;Aglomeracion Rionegro;A-Rionegro;En aglomeración;439160146.1;113472.9698
+487;12It12;Rurality level;5;Antioquia;5147;Carepa;Intermedio;intermedio;Fuera SC;Fuera SC;389311599.8;123028.4197
+488;12It12;Rurality level;5;Antioquia;5145;Caramanta;Intermedio;intermedio;Fuera SC;Fuera SC;91969617.46;48152.69585
+489;12It12;Rurality level;5;Antioquia;5142;Caracolí;Rural;Rural;Fuera SC;Fuera SC;271831216.3;87112.70237
+490;12It12;Rurality level;5;Antioquia;5138;Cañasgordas;Rural;Rural;Fuera SC;Fuera SC;363248174.6;97995.15847
+491;12It12;Rurality level;5;Antioquia;5134;Campamento;Rural;Rural Disperso;Fuera SC;Fuera SC;215503901;89650.87342
+492;12It12;Rurality level;5;Antioquia;5129;Caldas;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;135848174.5;49909.75331
+493;12It12;Rurality level;5;Antioquia;5125;Caicedo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;204440695.2;62329.32569
+494;12It12;Rurality level;5;Antioquia;5674;San Vicente;Intermedio;Rural;Fuera SC;Fuera SC;233402797.6;62589.00121
+495;12It12;Rurality level;5;Antioquia;5670;San Roque;Rural;intermedio;Fuera SC;Fuera SC;421599399.2;102402.89
+496;12It12;Rurality level;5;Antioquia;5667;San Rafael;Rural;Rural;Fuera SC;Fuera SC;373954868.5;91933.02854
+497;12It12;Rurality level;5;Antioquia;5665;San Pedro de Uraba;Intermedio;intermedio;Fuera SC;Fuera SC;609739893.8;147020.0137
+498;12It12;Rurality level;5;Antioquia;5664;San Pedro;Intermedio;intermedio;Fuera SC;Fuera SC;227086137.5;75086.38652
+499;12It12;Rurality level;5;Antioquia;5660;San Luis;Rural;Rural;Fuera SC;Fuera SC;434219300.8;99084.25603
+500;12It12;Rurality level;5;Antioquia;5659;San Juan de Urabá;Intermedio;intermedio;Fuera SC;Fuera SC;260627755.1;74360.60282
+501;12It12;Rurality level;5;Antioquia;5658;San José de La Montaña;Rural;Rural;Fuera SC;Fuera SC;128261610.4;44211.11883
+502;12It12;Rurality level;5;Antioquia;5656;San Jerónimo;Intermedio;intermedio;Fuera SC;Fuera SC;163513039.3;53256.71347
+503;12It12;Rurality level;5;Antioquia;5652;San Francisco;Rural;Rural;Fuera SC;Fuera SC;359238453.3;107790.5088
+504;12It12;Rurality level;5;Antioquia;5649;San Carlos;Rural;Rural;Fuera SC;Fuera SC;732772492.3;131313.1406
+505;12It12;Rurality level;5;Antioquia;5647;San Andrés de Cuerquía;Rural;Rural;Fuera SC;Fuera SC;227215074.3;80287.91231
+506;12It12;Rurality level;5;Antioquia;5642;Salgar;Rural;intermedio;Fuera SC;Fuera SC;288742633.8;84056.87497
+507;12It12;Rurality level;5;Antioquia;5631;Sabaneta;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;13180213.2;15452.35642
+508;12It12;Rurality level;5;Antioquia;5628;Sabanalarga;Rural;Rural;Fuera SC;Fuera SC;269351556.4;80160.74721
+509;12It12;Rurality level;5;Antioquia;5615;Rionegro;Ciudades y aglomeraciones;Nodo;A-Rionegro;Centro aglomeración;206130932.5;68603.95674
+510;12It12;Rurality level;5;Antioquia;5607;Retiro;Intermedio;intermedio;Fuera SC;Fuera SC;250269729.3;64025.09737
+511;12It12;Rurality level;5;Antioquia;5604;Remedios;Rural;Rural;Fuera SC;Fuera SC;2034366861;263756.8219
+512;12It12;Rurality level;5;Antioquia;5591;Puerto Triunfo;Intermedio;Rural Disperso;Fuera SC;Fuera SC;373887049.8;93094.25712
+513;12It12;Rurality level;5;Antioquia;5585;Puerto Nare;Rural;Rural;Fuera SC;Fuera SC;683248559.6;142088.593
+514;12It12;Rurality level;5;Antioquia;5579;Puerto Berrío;Intermedio;intermedio;Fuera SC;Fuera SC;1248471208;173137.9376
+515;12It12;Rurality level;5;Antioquia;5576;Pueblorrico;Intermedio;intermedio;Fuera SC;Fuera SC;79611424.61;51627.07336
+516;12It12;Rurality level;5;Antioquia;5543;Peque;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;442893186.3;105821.7273
+517;12It12;Rurality level;5;Antioquia;5541;Peñol;Intermedio;intermedio;Fuera SC;Fuera SC;118319739.4;55365.34178
+518;12It12;Rurality level;5;Antioquia;5501;Olaya;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;87863978.9;44360.04647
+519;12It12;Rurality level;5;Antioquia;5495;Nechí;Rural;Rural;Fuera SC;Fuera SC;962974918;178496.9029
+520;12It12;Rurality level;5;Antioquia;5490;Necoclí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1292453315;188058.452
+521;12It12;Rurality level;5;Antioquia;5483;Nariño;Rural;Rural;Fuera SC;Fuera SC;312413098.6;95669.34872
+522;12It12;Rurality level;5;Antioquia;5480;Mutatá;Rural Disperso;Rural;Fuera SC;Fuera SC;1096046307;163752.703
+523;12It12;Rurality level;5;Antioquia;5467;Montebello;Intermedio;Rural;Fuera SC;Fuera SC;79316426.06;36760.60243
+524;12It12;Rurality level;5;Antioquia;5440;Marinilla;Intermedio;Aglomeracion Rionegro;A-Rionegro;En aglomeración;109597328.3;45548.6961
+525;12It12;Rurality level;5;Antioquia;5425;Maceo;Rural;Rural;Fuera SC;Fuera SC;397584153.4;113031.1644
+526;12It12;Rurality level;5;Antioquia;5411;Liborina;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;223846969.6;65899.30445
+527;12It12;Rurality level;5;Antioquia;5400;La Unión;Intermedio;intermedio;Fuera SC;Fuera SC;170047984.6;57857.40578
+528;12It12;Rurality level;5;Antioquia;5390;La Pintada;Intermedio;intermedio;Fuera SC;Fuera SC;55048739.7;42853.98496
+529;12It12;Rurality level;5;Antioquia;5380;La Estrella;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;36355031.42;25114.7986
+530;12It12;Rurality level;5;Antioquia;5376;La Ceja;Intermedio;Aglomeracion Rionegro;A-Rionegro;En aglomeración;131403589;56868.42375
+531;12It12;Rurality level;5;Antioquia;5368;Jericó;Intermedio;intermedio;Fuera SC;Fuera SC;207329550.8;69529.6106
+532;12It12;Rurality level;5;Antioquia;5364;Jardín;Intermedio;intermedio;Fuera SC;Fuera SC;206344285.2;67662.73995
+533;12It12;Rurality level;5;Antioquia;5360;Itagui;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;20470855.01;18137.20795
+534;12It12;Rurality level;5;Antioquia;5353;Hispania;Intermedio;intermedio;Fuera SC;Fuera SC;59554412.6;31798.30234
+535;12It12;Rurality level;5;Antioquia;5347;Heliconia;Intermedio;Rural;Fuera SC;Fuera SC;113679667;47806.78871
+536;12It12;Rurality level;5;Antioquia;5321;Guatapé;Intermedio;intermedio;Fuera SC;Fuera SC;84030637.91;45295.24629
+537;12It12;Rurality level;5;Antioquia;5318;Guarne;Intermedio;Aglomeracion Rionegro;A-Rionegro;En aglomeración;158186999.1;53999.66243
+538;12It12;Rurality level;5;Antioquia;5315;Guadalupe;Intermedio;intermedio;Fuera SC;Fuera SC;117310976.7;45250.00558
+539;12It12;Rurality level;5;Antioquia;5313;Granada;Intermedio;intermedio;Fuera SC;Fuera SC;193791659.3;66548.85027
+540;12It12;Rurality level;5;Antioquia;5310;Gómez Plata;Rural;Rural;Fuera SC;Fuera SC;345120349.4;83941.23703
+541;12It12;Rurality level;5;Antioquia;5308;Girardota;Ciudades y aglomeraciones;Aglomeración Medellín;A-Medellín;En aglomeración;81719268.23;34927.08627
+542;12It12;Rurality level;68;Santander;68001;Bucaramanga;Ciudades y aglomeraciones;Nodo;A-Bucaramanga;Centro aglomeración - Nodo;159654637.6;60270.74473
+543;12It12;Rurality level;68;Santander;68013;Aguada;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;74816269.65;43949.46966
+544;12It12;Rurality level;68;Santander;68020;Albania;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;170251475.4;71708.11303
+545;12It12;Rurality level;68;Santander;68051;Aratoca;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;169861725.3;61326.4854
+546;12It12;Rurality level;68;Santander;68077;Barbosa;Intermedio;intermedio;Fuera SC;Fuera SC;47507916.59;27852.98693
+547;12It12;Rurality level;68;Santander;68079;Barichara;Intermedio;Rural;Fuera SC;Fuera SC;137723111.9;53292.37059
+548;12It12;Rurality level;68;Santander;68081;Barrancabermeja;Ciudades y aglomeraciones;Aglomeración;SA-Bucaramanga;Uninodal;1365333737;215692.0076
+549;12It12;Rurality level;68;Santander;68092;Betulia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;437475674.9;122112.6963
+550;12It12;Rurality level;68;Santander;68101;Bolívar;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1025612825;371527.6634
+551;12It12;Rurality level;68;Santander;68121;Cabrera;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;70290362.21;35559.56859
+552;12It12;Rurality level;68;Santander;68132;California;Rural;Rural;Fuera SC;Fuera SC;41784090.64;39292.56444
+553;12It12;Rurality level;68;Santander;68147;Capitanejo;Intermedio;intermedio;Fuera SC;Fuera SC;89660897.93;46055.03467
+554;12It12;Rurality level;68;Santander;68152;Carcasí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;259782832.4;68883.42208
+555;12It12;Rurality level;68;Santander;68160;Cepitá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;103136803.3;47698.16484
+556;12It12;Rurality level;68;Santander;68162;Cerrito;Rural;Rural;Fuera SC;Fuera SC;428834130.2;92963.854
+557;12It12;Rurality level;68;Santander;68167;Charalá;Rural;Rural;Fuera SC;Fuera SC;421682951.4;159351.848
+558;12It12;Rurality level;68;Santander;68169;Charta;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;127574772.3;58046.89592
+559;12It12;Rurality level;68;Santander;68176;Chima;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;176051902.3;59659.55371
+560;12It12;Rurality level;68;Santander;68179;Chipatá;Rural;Rural;Fuera SC;Fuera SC;96998309.46;40739.1179
+561;12It12;Rurality level;68;Santander;68190;Cimitarra;Rural;Rural;Fuera SC;Fuera SC;3238060474;273075.932
+562;12It12;Rurality level;68;Santander;68207;Concepción;Rural;Rural;Fuera SC;Fuera SC;340058761.8;107298.4952
+563;12It12;Rurality level;68;Santander;68209;Confines;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;72121218.95;37217.67224
+564;12It12;Rurality level;68;Santander;68615;Rionegro;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1183217694;260745.3481
+565;12It12;Rurality level;68;Santander;68655;Sabana de Torres;Rural;Rural;Fuera SC;Fuera SC;1442725640;181972.3574
+566;12It12;Rurality level;68;Santander;68669;San Andrés;Rural;Rural;Fuera SC;Fuera SC;288914446.7;91113.95582
+567;12It12;Rurality level;68;Santander;68673;San Benito;Rural;Rural Disperso;Fuera SC;Fuera SC;62277559.12;37881.95859
+568;12It12;Rurality level;68;Santander;68679;San Gil;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;147616283.2;67011.70661
+569;12It12;Rurality level;68;Santander;68682;San Joaquín;Rural Disperso;Rural;Fuera SC;Fuera SC;143652676.3;55984.41046
+570;12It12;Rurality level;68;Santander;68684;San José de Miranda;Rural;Rural;Fuera SC;Fuera SC;77979835.94;36124.09074
+571;12It12;Rurality level;68;Santander;68686;San Miguel;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;73477113.97;37115.72377
+572;12It12;Rurality level;68;Santander;68689;San Vicente de Chucurí;Rural;Rural;Fuera SC;Fuera SC;1139495073;197392.4887
+573;12It12;Rurality level;68;Santander;68705;Santa Bárbara;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;224756158.1;84599.49024
+574;12It12;Rurality level;68;Santander;68720;Santa Helena del Opón;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;380126236;90381.8541
+575;12It12;Rurality level;68;Santander;68745;Simacota;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;925817921.9;241536.61
+576;12It12;Rurality level;68;Santander;68755;Socorro;Intermedio;intermedio;Fuera SC;Fuera SC;129329684.6;46242.6178
+577;12It12;Rurality level;68;Santander;68770;Suaita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;288613725.3;83771.32021
+578;12It12;Rurality level;68;Santander;68773;Sucre;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;534447424.3;149466.947
+579;12It12;Rurality level;68;Santander;68780;Suratá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;372675074.6;115065.2233
+580;12It12;Rurality level;68;Santander;68820;Tona;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;337175218.5;76695.57333
+581;12It12;Rurality level;68;Santander;68855;Valle de San José;Intermedio;intermedio;Fuera SC;Fuera SC;79847391.79;37600.95152
+582;12It12;Rurality level;68;Santander;68861;Vélez;Rural;intermedio;Fuera SC;Fuera SC;463502022.9;193550.9983
+583;12It12;Rurality level;68;Santander;68867;Vetas;Rural;Rural;Fuera SC;Fuera SC;98310056.93;39234.75793
+584;12It12;Rurality level;68;Santander;68872;Villanueva;Intermedio;intermedio;Fuera SC;Fuera SC;102286229.6;52856.3403
+585;12It12;Rurality level;68;Santander;68895;Zapatoca;Rural;Rural;Fuera SC;Fuera SC;369848669;123660.9243
+586;12It12;Rurality level;68;Santander;68370;Jordán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;44999643.87;30957.69171
+587;12It12;Rurality level;68;Santander;68377;La Belleza;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;341338629;102278.4372
+588;12It12;Rurality level;68;Santander;68385;Landázuri;Rural Disperso;Rural;Fuera SC;Fuera SC;598978074.1;165991.2558
+589;12It12;Rurality level;68;Santander;68397;La Paz;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;290729542.2;85980.30136
+590;12It12;Rurality level;68;Santander;68406;Lebríja;Intermedio;intermedio;Fuera SC;Fuera SC;562313373.1;131040.5383
+591;12It12;Rurality level;68;Santander;68418;Los Santos;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;296413939.2;66297.84997
+592;12It12;Rurality level;68;Santander;68425;Macaravita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;107306738.4;50658.42364
+593;12It12;Rurality level;68;Santander;68432;Málaga;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;57985583.49;34252.28641
+594;12It12;Rurality level;68;Santander;68444;Matanza;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;240686523.6;78227.66825
+595;12It12;Rurality level;68;Santander;68464;Mogotes;Rural;Rural;Fuera SC;Fuera SC;497838950.1;101937.8064
+596;12It12;Rurality level;68;Santander;68468;Molagavita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;184069022.5;61323.47221
+597;12It12;Rurality level;68;Santander;68498;Ocamonte;Rural;Rural;Fuera SC;Fuera SC;77407104.99;41367.82782
+598;12It12;Rurality level;68;Santander;68500;Oiba;Rural;Rural;Fuera SC;Fuera SC;302410093.4;73145.68301
+599;12It12;Rurality level;68;Santander;68502;Onzaga;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;498649468.4;121056.9709
+600;12It12;Rurality level;68;Santander;68522;Palmar;Intermedio;intermedio;Fuera SC;Fuera SC;17527398.63;23322.69193
+601;12It12;Rurality level;68;Santander;68524;Palmas del Socorro;Rural;Rural;Fuera SC;Fuera SC;57856741.2;32547.21784
+602;12It12;Rurality level;68;Santander;68533;Páramo;Intermedio;Rural;Fuera SC;Fuera SC;76938608.42;48500.43496
+603;12It12;Rurality level;68;Santander;68547;Piedecuesta;Ciudades y aglomeraciones;Aglomeración Bucaramanga;A-Bucaramanga;En aglomeración;507423284.5;107612.6304
+604;12It12;Rurality level;68;Santander;68549;Pinchote;Rural;Rural;Fuera SC;Fuera SC;57448125.83;30621.50582
+605;12It12;Rurality level;68;Santander;68572;Puente Nacional;Rural;intermedio;Fuera SC;Fuera SC;256752654.6;70103.31189
+606;12It12;Rurality level;68;Santander;68573;Puerto Parra;Rural Disperso;Rural;Fuera SC;Fuera SC;776162393.5;143370.6772
+607;12It12;Rurality level;68;Santander;68575;Puerto Wilches;Rural;Rural;Fuera SC;Fuera SC;1553882413;305225.4216
+608;12It12;Rurality level;68;Santander;68211;Contratación;Rural;Rural;Fuera SC;Fuera SC;133451906.2;65381.4455
+609;12It12;Rurality level;68;Santander;68217;Coromoro;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;591342478;109237.3957
+610;12It12;Rurality level;68;Santander;68229;Curití;Rural;intermedio;Fuera SC;Fuera SC;246592886.2;84183.29844
+611;12It12;Rurality level;68;Santander;68235;El Carmen de Chucurí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;941932996.6;136037.1447
+612;12It12;Rurality level;68;Santander;68245;El Guacamayo;Rural Disperso;Rural;Fuera SC;Fuera SC;99297448.48;57384.29957
+613;12It12;Rurality level;68;Santander;68250;El Peñón;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;409665995.9;100521.9978
+614;12It12;Rurality level;68;Santander;68255;El Playón;Rural;Rural;Fuera SC;Fuera SC;470824036.7;106420.3777
+615;12It12;Rurality level;68;Santander;68264;Encino;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;408335529.2;96013.23622
+616;12It12;Rurality level;68;Santander;68266;Enciso;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;75391752.48;44017.47805
+617;12It12;Rurality level;68;Santander;68271;Florián;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;175880792.5;74594.75234
+618;12It12;Rurality level;68;Santander;68276;Floridablanca;Ciudades y aglomeraciones;Aglomeración Bucaramanga;A-Bucaramanga;En aglomeración;91119609.2;42927.16856
+619;12It12;Rurality level;68;Santander;68296;Galán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;210729566.5;67177.82439
+620;12It12;Rurality level;68;Santander;68298;Gambita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;621350271.6;132550.7462
+621;12It12;Rurality level;68;Santander;68307;Girón;Ciudades y aglomeraciones;Aglomeración Bucaramanga;A-Bucaramanga;En aglomeración;501534271.5;172915.3015
+622;12It12;Rurality level;68;Santander;68318;Guaca;Rural;Rural Disperso;Fuera SC;Fuera SC;312835119.6;90832.526
+623;12It12;Rurality level;68;Santander;68320;Guadalupe;Rural;Rural;Fuera SC;Fuera SC;144146256.2;57132.45996
+624;12It12;Rurality level;68;Santander;68322;Guapotá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;69225461.91;33052.75531
+625;12It12;Rurality level;68;Santander;68324;Guavatá;Rural;Rural;Fuera SC;Fuera SC;78705238.76;38089.05179
+626;12It12;Rurality level;68;Santander;68327;Güepsa;Intermedio;intermedio;Fuera SC;Fuera SC;30507918.86;29309.7381
+627;12It12;Rurality level;68;Santander;68344;Hato;Rural;Rural Disperso;Fuera SC;Fuera SC;170582807.7;54304.91715
+628;12It12;Rurality level;68;Santander;68368;Jesús María;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;86265362.91;58401.60135
+629;12It12;Rurality level;76;Valle del Cauca;76001;Cali;Ciudades y aglomeraciones;Nodo;A-Cali;Centro aglomeración - Nodo;563278832.1;101482.1578
+630;12It12;Rurality level;76;Valle del Cauca;76036;Andalucía;Intermedio;Aglomeracion Tuluá;A-Tuluá;En aglomeración;113295570.8;56029.50175
+631;12It12;Rurality level;76;Valle del Cauca;76041;Ansermanuevo;Intermedio;intermedio;Fuera SC;Fuera SC;308392478.6;85382.08606
+632;12It12;Rurality level;76;Valle del Cauca;76054;Argelia;Intermedio;intermedio;Fuera SC;Fuera SC;93541077.87;44425.22928
+633;12It12;Rurality level;76;Valle del Cauca;76111;Guadalajara de Buga;Ciudades y aglomeraciones;Función Subregional;SA-Cali-Norte Valle;Uninodal;836301121.3;174328.0767
+634;12It12;Rurality level;76;Valle del Cauca;76318;Guacarí;Intermedio;intermedio;Fuera SC;Fuera SC;160228104.7;67129.26089
+635;12It12;Rurality level;76;Valle del Cauca;76020;Alcalá;Intermedio;intermedio;Fuera SC;Fuera SC;70490731.46;40408.63857
+636;12It12;Rurality level;76;Valle del Cauca;76497;Obando;Intermedio;intermedio;Fuera SC;Fuera SC;217315622.7;60260.81697
+637;12It12;Rurality level;76;Valle del Cauca;76520;Palmira;Ciudades y aglomeraciones;Aglomeración;SA-Cali-Norte Valle;Uninodal;1021342609;177663.7606
+638;12It12;Rurality level;76;Valle del Cauca;76563;Pradera;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;354106580.9;90218.44995
+639;12It12;Rurality level;76;Valle del Cauca;76606;Restrepo;Intermedio;intermedio;Fuera SC;Fuera SC;141188433.7;47686.62755
+640;12It12;Rurality level;76;Valle del Cauca;76616;Riofrío;Rural;intermedio;Fuera SC;Fuera SC;308705280.1;83624.31532
+641;12It12;Rurality level;76;Valle del Cauca;76622;Roldanillo;Intermedio;intermedio;Fuera SC;Fuera SC;235572210.2;74786.56753
+642;12It12;Rurality level;76;Valle del Cauca;76670;San Pedro;Intermedio;intermedio;Fuera SC;Fuera SC;205020506.8;64732.46844
+643;12It12;Rurality level;76;Valle del Cauca;76736;Sevilla;Intermedio;intermedio;Fuera SC;Fuera SC;542562670.8;163457.499
+644;12It12;Rurality level;76;Valle del Cauca;76823;Toro;Intermedio;intermedio;Fuera SC;Fuera SC;176649417.9;59920.93311
+645;12It12;Rurality level;76;Valle del Cauca;76828;Trujillo;Intermedio;intermedio;Fuera SC;Fuera SC;309914776.5;79853.45371
+646;12It12;Rurality level;76;Valle del Cauca;76834;Tuluá;Ciudades y aglomeraciones;Nodo;A-Tuluá;Centro aglomeración;915469031.2;167826.1014
+647;12It12;Rurality level;76;Valle del Cauca;76845;Ulloa;Intermedio;intermedio;Fuera SC;Fuera SC;39273636.96;39750.3895
+648;12It12;Rurality level;76;Valle del Cauca;76863;Versalles;Rural;Rural;Fuera SC;Fuera SC;201303360.8;73807.34402
+649;12It12;Rurality level;76;Valle del Cauca;76869;Vijes;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;110070053.4;53207.82086
+650;12It12;Rurality level;76;Valle del Cauca;76890;Yotoco;Rural;Rural;Fuera SC;Fuera SC;336495759.5;96355.87987
+651;12It12;Rurality level;76;Valle del Cauca;76892;Yumbo;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;230994475.1;66765.13075
+652;12It12;Rurality level;76;Valle del Cauca;76895;Zarzal;Intermedio;intermedio;Fuera SC;Fuera SC;372044916.4;97265.30734
+653;12It12;Rurality level;76;Valle del Cauca;76403;La Victoria;Rural;Rural;Fuera SC;Fuera SC;271718054.8;70666.5971
+654;12It12;Rurality level;76;Valle del Cauca;76400;La Unión;Intermedio;intermedio;Fuera SC;Fuera SC;122627355.8;51513.24722
+655;12It12;Rurality level;76;Valle del Cauca;76377;La Cumbre;Rural;Rural;Fuera SC;Fuera SC;264205708.9;93557.6136
+656;12It12;Rurality level;76;Valle del Cauca;76364;Jamundí;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;629333567.5;119379.0849
+657;12It12;Rurality level;81;Arauca;81001;Arauca;Intermedio;Intermedio;SA-Otros SC;Uninodal;5881121206;406629.4149
+658;12It12;Rurality level;81;Arauca;81591;Puerto Rondón;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2307991469;234049.3571
+659;12It12;Rurality level;81;Arauca;81220;Cravo Norte;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;5290712332;378204.6683
+660;12It12;Rurality level;81;Arauca;81065;Arauquita;Rural;Rural Disperso;Fuera SC;Fuera SC;3106037436;283086.8839
+661;12It12;Rurality level;52;Nariño;52683;Sandoná;Intermedio;intermedio;Fuera SC;Fuera SC;104001966.2;49015.73078
+662;12It12;Rurality level;52;Nariño;52685;San Bernardo;Intermedio;intermedio;Fuera SC;Fuera SC;65956376.28;42389.1906
+663;12It12;Rurality level;52;Nariño;52687;San Lorenzo;Rural;Rural;Fuera SC;Fuera SC;248097635.3;70780.52261
+664;12It12;Rurality level;52;Nariño;52560;Potosí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;392566595.9;126111.5444
+665;12It12;Rurality level;52;Nariño;52693;San Pablo;Intermedio;intermedio;Fuera SC;Fuera SC;114672400.6;48894.20705
+666;12It12;Rurality level;52;Nariño;52565;Providencia;Intermedio;intermedio;Fuera SC;Fuera SC;38421390.46;31523.65194
+667;12It12;Rurality level;52;Nariño;52694;San Pedro de Cartago;Intermedio;intermedio;Fuera SC;Fuera SC;52444099.74;33111.10564
+668;12It12;Rurality level;52;Nariño;52573;Puerres;Rural;Rural;Fuera SC;Fuera SC;353893785.6;118728.8057
+669;12It12;Rurality level;52;Nariño;52699;Santacruz;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;532956424.3;115375.7684
+670;12It12;Rurality level;52;Nariño;52585;Pupiales;Intermedio;intermedio;Fuera SC;Fuera SC;125317651.2;51299.38782
+671;12It12;Rurality level;52;Nariño;52678;Samaniego;Intermedio;Rural;Fuera SC;Fuera SC;604452233.9;143035.3941
+672;12It12;Rurality level;52;Nariño;52207;Consaca;Rural;intermedio;Fuera SC;Fuera SC;120296249.2;47411.50609
+673;12It12;Rurality level;52;Nariño;52210;Contadero;Intermedio;intermedio;Fuera SC;Fuera SC;42278908.88;30614.76666
+674;12It12;Rurality level;52;Nariño;52215;Córdoba;Rural Disperso;Rural;Fuera SC;Fuera SC;299699240.1;113911.2986
+675;12It12;Rurality level;52;Nariño;52001;Pasto;Ciudades y aglomeraciones;Nodo;A-Pasto;Centro aglomeración - Nodo;1115649416;174177.2386
+676;12It12;Rurality level;52;Nariño;52019;Albán;Intermedio;intermedio;Fuera SC;Fuera SC;37223804.96;30476.28178
+677;12It12;Rurality level;52;Nariño;52022;Aldana;Rural;intermedio;Fuera SC;Fuera SC;46311926.5;35348.05204
+678;12It12;Rurality level;52;Nariño;52224;Cuaspud;Intermedio;intermedio;Fuera SC;Fuera SC;52965251.36;34907.92727
+679;12It12;Rurality level;52;Nariño;52036;Ancuyá;Rural;intermedio;Fuera SC;Fuera SC;68655846.18;36865.64276
+680;12It12;Rurality level;52;Nariño;52051;Arboleda;Intermedio;intermedio;Fuera SC;Fuera SC;58301836.14;35744.05277
+681;12It12;Rurality level;52;Nariño;52083;Belén;Intermedio;intermedio;Fuera SC;Fuera SC;46627963.11;26123.11939
+682;12It12;Rurality level;52;Nariño;52110;Buesaco;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;643958997.8;114171.0581
+683;12It12;Rurality level;52;Nariño;52203;Colón;Intermedio;intermedio;Fuera SC;Fuera SC;57082044.65;34409.62444
+684;12It12;Rurality level;52;Nariño;52480;Nariño;Ciudades y aglomeraciones;Aglomeración Pasto;A-Pasto;En aglomeración;23658460.24;25318.92551
+685;12It12;Rurality level;52;Nariño;52506;Ospina;Intermedio;intermedio;Fuera SC;Fuera SC;59820787.4;30982.2531
+686;12It12;Rurality level;52;Nariño;52720;Sapuyes;Rural Disperso;Rural;Fuera SC;Fuera SC;118687513.8;59198.91717
+687;12It12;Rurality level;52;Nariño;52786;Taminango;Rural;Rural;Fuera SC;Fuera SC;236923591.2;57883.81677
+688;12It12;Rurality level;52;Nariño;52788;Tangua;Rural Disperso;Rural;Fuera SC;Fuera SC;210691744.1;70148.37824
+689;12It12;Rurality level;52;Nariño;52240;Chachagüí;Intermedio;intermedio;Fuera SC;Fuera SC;144564477.5;64973.54799
+690;12It12;Rurality level;52;Nariño;52254;El Peñol;Rural;Rural;Fuera SC;Fuera SC;123650033.4;49862.87482
+691;12It12;Rurality level;52;Nariño;52258;El Tablón de Gómez;Rural;Rural Disperso;Fuera SC;Fuera SC;312108407.8;79949.90931
+692;12It12;Rurality level;52;Nariño;52838;Túquerres;Intermedio;intermedio;Fuera SC;Fuera SC;217354051.4;72116.05738
+693;12It12;Rurality level;52;Nariño;52411;Linares;Rural;Rural;Fuera SC;Fuera SC;136818876.1;54360.66656
+694;12It12;Rurality level;52;Nariño;52885;Yacuanquer;Rural;intermedio;Fuera SC;Fuera SC;102301922.5;46088.95172
+695;12It12;Rurality level;52;Nariño;52435;Mallama;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;573079858.9;118378.8273
+696;12It12;Rurality level;52;Nariño;52378;La Cruz;Intermedio;intermedio;Fuera SC;Fuera SC;239453351.9;65439.39122
+697;12It12;Rurality level;52;Nariño;52381;La Florida;Rural;Rural;Fuera SC;Fuera SC;134415124.6;77952.20835
+698;12It12;Rurality level;52;Nariño;52260;El Tambo;Rural;intermedio;Fuera SC;Fuera SC;247722188.4;76584.55677
+699;12It12;Rurality level;52;Nariño;52287;Funes;Rural;Rural;Fuera SC;Fuera SC;402927006.8;122409.4283
+700;12It12;Rurality level;52;Nariño;52317;Guachucal;Rural;intermedio;Fuera SC;Fuera SC;156475442.4;64754.78792
+701;12It12;Rurality level;52;Nariño;52399;La Unión;Intermedio;intermedio;Fuera SC;Fuera SC;146639116;72145.8043
+702;12It12;Rurality level;52;Nariño;52320;Guaitarilla;Intermedio;intermedio;Fuera SC;Fuera SC;116426435.8;47400.24724
+703;12It12;Rurality level;52;Nariño;52405;Leiva;Rural;Rural;Fuera SC;Fuera SC;316557706.4;106025.5399
+704;12It12;Rurality level;52;Nariño;52323;Gualmatán;Intermedio;intermedio;Fuera SC;Fuera SC;30481363.82;23058.39826
+705;12It12;Rurality level;52;Nariño;52352;Iles;Intermedio;Rural;Fuera SC;Fuera SC;83431213.5;39813.72248
+706;12It12;Rurality level;52;Nariño;52354;Imués;Rural;Rural;Fuera SC;Fuera SC;80704812.8;38836.61611
+707;12It12;Rurality level;52;Nariño;52356;Ipiales;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;1588289135;258756.6534
+708;12It12;Rurality level;17;Caldas;17001;Manizales;Ciudades y aglomeraciones;Nodo;A-Manizales;Centro aglomeración;442800673.5;118257.012
+709;12It12;Rurality level;17;Caldas;17013;Aguadas;Rural;Rural;Fuera SC;Fuera SC;479832441.1;128737.4863
+710;12It12;Rurality level;17;Caldas;17486;Neira;Intermedio;intermedio;Fuera SC;Fuera SC;377199554.5;117644.9575
+711;12It12;Rurality level;17;Caldas;17446;Marulanda;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;387856264;115071.9344
+712;12It12;Rurality level;17;Caldas;17444;Marquetalia;Intermedio;intermedio;Fuera SC;Fuera SC;85102316.66;44597.32849
+713;12It12;Rurality level;17;Caldas;17442;Marmato;Intermedio;intermedio;Fuera SC;Fuera SC;41103881.87;27073.93519
+714;12It12;Rurality level;17;Caldas;17433;Manzanares;Intermedio;intermedio;Fuera SC;Fuera SC;204060397.8;60951.01524
+715;12It12;Rurality level;17;Caldas;17388;La Merced;Intermedio;intermedio;Fuera SC;Fuera SC;93739826.7;43741.01968
+716;12It12;Rurality level;17;Caldas;17380;La Dorada;Intermedio;intermedio;Fuera SC;Fuera SC;556848081.4;152149.0963
+717;12It12;Rurality level;17;Caldas;17272;Filadelfia;Intermedio;intermedio;Fuera SC;Fuera SC;194923151.6;58655.05806
+718;12It12;Rurality level;17;Caldas;17174;Chinchiná;Intermedio;intermedio;Fuera SC;Fuera SC;116912313.4;66697.13261
+719;12It12;Rurality level;17;Caldas;17088;Belalcázar;Intermedio;intermedio;Fuera SC;Fuera SC;115791185.8;48373.16924
+720;12It12;Rurality level;17;Caldas;17050;Aranzazu;Intermedio;intermedio;Fuera SC;Fuera SC;144825301.2;63249.49099
+721;12It12;Rurality level;17;Caldas;17042;Anserma;Intermedio;intermedio;Fuera SC;Fuera SC;208988883.1;78800.55529
+722;12It12;Rurality level;17;Caldas;17495;Norcasia;Rural;Rural;Fuera SC;Fuera SC;238131272.2;83582.39651
+723;12It12;Rurality level;17;Caldas;17877;Viterbo;Intermedio;intermedio;Fuera SC;Fuera SC;114365309.5;55666.48645
+724;12It12;Rurality level;17;Caldas;17873;Villamaría;Ciudades y aglomeraciones;Aglomeración Manizales;A-Manizales;En aglomeración;455993391.5;104510.1743
+725;12It12;Rurality level;17;Caldas;17867;Victoria;Rural;Rural;Fuera SC;Fuera SC;568209997.8;115079.9563
+726;12It12;Rurality level;17;Caldas;17777;Supía;Intermedio;intermedio;Fuera SC;Fuera SC;121001435.7;52115.19927
+727;12It12;Rurality level;17;Caldas;17665;San José;Intermedio;Rural;Fuera SC;Fuera SC;59213285.89;37492.90352
+728;12It12;Rurality level;17;Caldas;17662;Samaná;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;763491537.3;149603.6941
+729;12It12;Rurality level;17;Caldas;17653;Salamina;Rural;intermedio;Fuera SC;Fuera SC;397011854;101813.0564
+730;12It12;Rurality level;17;Caldas;17616;Risaralda;Intermedio;intermedio;Fuera SC;Fuera SC;93372025.07;53651.05768
+731;12It12;Rurality level;17;Caldas;17541;Pensilvania;Rural;Rural;Fuera SC;Fuera SC;511517106.1;120363.9144
+732;12It12;Rurality level;17;Caldas;17524;Palestina;Intermedio;intermedio;Fuera SC;Fuera SC;113358741.5;49555.39025
+733;12It12;Rurality level;17;Caldas;17513;Pácora;Rural;intermedio;Fuera SC;Fuera SC;260837483.7;73865.16696
+734;12It12;Rurality level;18;Caquetá;18001;Florencia;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;2563799995;253096.0774
+735;12It12;Rurality level;18;Caquetá;18029;Albania;Rural;Rural;Fuera SC;Fuera SC;415476302.4;90717.48768
+736;12It12;Rurality level;18;Caquetá;18094;Belén de Los Andaquies;Rural;Rural Disperso;Fuera SC;Fuera SC;1205912198;193205.2187
+737;12It12;Rurality level;18;Caquetá;18247;El Doncello;Rural;Rural;Fuera SC;Fuera SC;1111338515;275791.4149
+738;12It12;Rurality level;18;Caquetá;18256;El Paujil;Rural;Rural;Fuera SC;Fuera SC;1242996588;311389.2053
+739;12It12;Rurality level;18;Caquetá;18410;La Montañita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1706395617;275454.4349
+740;12It12;Rurality level;18;Caquetá;18460;Milán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1234249473;158941.0943
+741;12It12;Rurality level;18;Caquetá;18479;Morelia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;467326248.9;116628.5526
+742;12It12;Rurality level;85;Casanare;85001;Yopal;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;2519985091;236800.3899
+743;12It12;Rurality level;85;Casanare;85010;Aguazul;Intermedio;intermedio;Fuera SC;Fuera SC;1459166615;187784.6108
+744;12It12;Rurality level;85;Casanare;85015;Chameza;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;310321083.3;98363.95342
+745;12It12;Rurality level;85;Casanare;85136;La Salina;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;199086485.1;80966.03119
+746;12It12;Rurality level;85;Casanare;85139;Maní;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3802473806;320599.0308
+747;12It12;Rurality level;85;Casanare;85162;Monterrey;Rural;Rural;Fuera SC;Fuera SC;792731780.1;133065.0339
+748;12It12;Rurality level;85;Casanare;85225;Nunchía;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1110936826;169385.9193
+749;12It12;Rurality level;85;Casanare;85230;Orocué;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;4809485566;369171.9147
+750;12It12;Rurality level;85;Casanare;85263;Pore;Rural;Rural;Fuera SC;Fuera SC;781898026.2;142168.9016
+751;12It12;Rurality level;85;Casanare;85279;Recetor;Rural;Rural Disperso;Fuera SC;Fuera SC;180857145.1;62755.3483
+752;12It12;Rurality level;85;Casanare;85300;Sabanalarga;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;403613192.4;109097.3524
+753;12It12;Rurality level;85;Casanare;85315;Sácama;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;323764179.3;107783.2303
+754;12It12;Rurality level;85;Casanare;85325;San Luis de Palenque;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3038461233;400260.4789
+755;12It12;Rurality level;85;Casanare;85400;Támara;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1108689681;172941.3292
+756;12It12;Rurality level;85;Casanare;85410;Tauramena;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2419655691;336251.6492
+757;12It12;Rurality level;85;Casanare;85430;Trinidad;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3007417879;344093.424
+758;12It12;Rurality level;85;Casanare;85440;Villanueva;Rural;intermedio;Fuera SC;Fuera SC;851813430;159594.6425
+759;12It12;Rurality level;19;Cauca;19001;Popayán;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;478293239.2;118910.7436
+760;12It12;Rurality level;19;Cauca;19022;Almaguer;Rural;Rural;Fuera SC;Fuera SC;239623873.2;69554.65264
+761;12It12;Rurality level;19;Cauca;19050;Argelia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;779122046.2;120402.696
+762;12It12;Rurality level;19;Cauca;19075;Balboa;Rural;Rural;Fuera SC;Fuera SC;412410567.1;90933.68212
+763;12It12;Rurality level;19;Cauca;19100;Bolívar;Rural;Rural Disperso;Fuera SC;Fuera SC;805972344.8;164551.2224
+764;12It12;Rurality level;19;Cauca;19110;Buenos Aires;Rural;Rural;Fuera SC;Fuera SC;433493973.2;137122.8681
+765;12It12;Rurality level;19;Cauca;19130;Cajibío;Rural;Rural;Fuera SC;Fuera SC;552456824.9;109855.0858
+766;12It12;Rurality level;19;Cauca;19137;Caldono;Rural;intermedio;Fuera SC;Fuera SC;356977128.7;95881.8
+767;12It12;Rurality level;19;Cauca;19142;Caloto;Rural;intermedio;Fuera SC;Fuera SC;264787409.4;113248.337
+768;12It12;Rurality level;19;Cauca;19212;Corinto;Intermedio;intermedio;Fuera SC;Fuera SC;328790322.6;80058.68265
+769;12It12;Rurality level;19;Cauca;19290;Florencia;Intermedio;Rural;Fuera SC;Fuera SC;55395760.97;33816.646
+770;12It12;Rurality level;19;Cauca;19300;Guachené;Intermedio;intermedio;Fuera SC;Fuera SC;103135730.8;45702.87044
+771;12It12;Rurality level;19;Cauca;19355;Inzá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;870970486.6;144296.9389
+772;12It12;Rurality level;19;Cauca;19364;Jambaló;Rural;Rural;Fuera SC;Fuera SC;232847071;81249.07083
+773;12It12;Rurality level;19;Cauca;19392;La Sierra;Rural;Rural;Fuera SC;Fuera SC;204292849.9;80822.23011
+774;12It12;Rurality level;19;Cauca;19397;La Vega;Rural;Rural Disperso;Fuera SC;Fuera SC;515048844;104885.3046
+775;12It12;Rurality level;19;Cauca;19450;Mercaderes;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;704501761.8;112197.0378
+776;12It12;Rurality level;19;Cauca;19455;Miranda;Intermedio;intermedio;Fuera SC;Fuera SC;193718773;90090.47083
+777;12It12;Rurality level;19;Cauca;19473;Morales;Rural;Rural;Fuera SC;Fuera SC;523254645.4;133867.8901
+778;12It12;Rurality level;19;Cauca;19513;Padilla;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;67748940.02;35780.44993
+779;12It12;Rurality level;19;Cauca;19517;Paez;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1816444581;224460.4337
+780;12It12;Rurality level;19;Cauca;19532;Patía;Rural;Rural;Fuera SC;Fuera SC;753834127.8;149205.4933
+781;12It12;Rurality level;19;Cauca;19533;Piamonte;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1099167339;240660.7051
+782;12It12;Rurality level;19;Cauca;19548;Piendamó;Intermedio;intermedio;Fuera SC;Fuera SC;182332448.4;83023.34225
+783;12It12;Rurality level;19;Cauca;19573;Puerto Tejada;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;115666754.5;46656.03705
+784;12It12;Rurality level;19;Cauca;19585;Puracé;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;856424998.9;173751.944
+785;12It12;Rurality level;19;Cauca;19622;Rosas;Intermedio;Rural;Fuera SC;Fuera SC;170616555;63463.60931
+786;12It12;Rurality level;19;Cauca;19693;San Sebastián;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;419067949.6;106202.5748
+787;12It12;Rurality level;19;Cauca;19698;Santander de Quilichao;Intermedio;intermedio;Fuera SC;Fuera SC;524405777.1;105129.0556
+788;12It12;Rurality level;19;Cauca;19701;Santa Rosa;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3640064006;320174.2569
+789;12It12;Rurality level;19;Cauca;19743;Silvia;Rural;Rural;Fuera SC;Fuera SC;678112729.8;121679.7407
+790;12It12;Rurality level;19;Cauca;19760;Sotara;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;527916710.2;123699.7681
+791;12It12;Rurality level;19;Cauca;19780;Suárez;Rural;Rural;Fuera SC;Fuera SC;395662863.9;96469.72182
+792;12It12;Rurality level;19;Cauca;19785;Sucre;Rural;Rural;Fuera SC;Fuera SC;140633094.6;62583.68543
+793;12It12;Rurality level;19;Cauca;19807;Timbío;Intermedio;intermedio;Fuera SC;Fuera SC;195182199.4;80352.24794
+794;12It12;Rurality level;19;Cauca;19821;Toribio;Rural;Rural;Fuera SC;Fuera SC;498994032;94807.86809
+795;12It12;Rurality level;19;Cauca;19824;Totoró;Rural;Rural;Fuera SC;Fuera SC;412275468.8;110300.2899
+796;12It12;Rurality level;19;Cauca;19845;Villa Rica;Ciudades y aglomeraciones;Aglomeración Cali;A-Cali;En aglomeración;77349232.51;44496.10759
+797;12It12;Rurality level;20;Cesar;20011;Aguachica;Intermedio;intermedio;Fuera SC;Fuera SC;906274634.6;182721.6452
+798;12It12;Rurality level;20;Cesar;20032;Astrea;Rural;Rural;Fuera SC;Fuera SC;668375812.2;114170.7452
+799;12It12;Rurality level;20;Cesar;20060;Bosconia;Intermedio;intermedio;Fuera SC;Fuera SC;607312125.7;107137.9591
+800;12It12;Rurality level;20;Cesar;20175;Chimichagua;Rural;Rural;Fuera SC;Fuera SC;1424095993;230829.5578
+801;12It12;Rurality level;20;Cesar;20178;Chiriguaná;Rural;Rural;Fuera SC;Fuera SC;1163518378;211078.7486
+802;12It12;Rurality level;20;Cesar;20228;Curumaní;Rural;intermedio;Fuera SC;Fuera SC;944173467.7;142766.3959
+803;12It12;Rurality level;20;Cesar;20238;El Copey;Rural;Rural;Fuera SC;Fuera SC;982546450.3;140467.7262
+804;12It12;Rurality level;20;Cesar;20250;El Paso;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;839548677;167440.8216
+805;12It12;Rurality level;20;Cesar;20295;Gamarra;Rural;Rural;Fuera SC;Fuera SC;331918960.2;102219.5584
+806;12It12;Rurality level;20;Cesar;20310;González;Rural;intermedio;Fuera SC;Fuera SC;75929985.35;41548.98952
+807;12It12;Rurality level;20;Cesar;20383;La Gloria;Rural;Rural;Fuera SC;Fuera SC;826827063.6;175114.9437
+808;12It12;Rurality level;20;Cesar;20400;La Jagua de Ibirico;Rural;intermedio;Fuera SC;Fuera SC;775708046;164087.466
+809;12It12;Rurality level;20;Cesar;20443;Manaure;Intermedio;intermedio;Fuera SC;Fuera SC;140257637.3;65236.64271
+810;12It12;Rurality level;20;Cesar;20517;Pailitas;Rural;Rural;Fuera SC;Fuera SC;544844889.8;108065.1479
+811;12It12;Rurality level;20;Cesar;20550;Pelaya;Rural;Rural;Fuera SC;Fuera SC;432703920.8;119808.376
+812;12It12;Rurality level;20;Cesar;20614;Río de Oro;Rural;Rural;Fuera SC;Fuera SC;564294622.1;123726.4757
+813;12It12;Rurality level;20;Cesar;20710;San Alberto;Rural;Rural;Fuera SC;Fuera SC;554760960.5;129520.2453
+814;12It12;Rurality level;20;Cesar;20750;San Diego;Rural;Rural;Fuera SC;Fuera SC;670206353.1;180932.1925
+815;12It12;Rurality level;20;Cesar;20770;San Martín;Rural;Rural;Fuera SC;Fuera SC;1028284406;182387.0259
+816;12It12;Rurality level;20;Cesar;20787;Tamalameque;Rural;Rural;Fuera SC;Fuera SC;531668183.7;96896.87755
+817;12It12;Rurality level;41;Huila;41001;Neiva;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;1295900772;275526.6676
+818;12It12;Rurality level;41;Huila;41306;Gigante;Intermedio;Rural;Fuera SC;Fuera SC;506651729.3;105465.5852
+819;12It12;Rurality level;41;Huila;41319;Guadalupe;Rural;intermedio;Fuera SC;Fuera SC;252926667.8;70514.95908
+820;12It12;Rurality level;41;Huila;41349;Hobo;Rural;Rural;Fuera SC;Fuera SC;203453360.6;66304.48043
+821;12It12;Rurality level;41;Huila;41357;Iquira;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;361572369.4;99113.1905
+822;12It12;Rurality level;41;Huila;41359;Isnos;Rural Disperso;Rural;Fuera SC;Fuera SC;368772355.2;138648.393
+823;12It12;Rurality level;41;Huila;41378;La Argentina;Rural;Rural;Fuera SC;Fuera SC;362502433.1;137270.2344
+824;12It12;Rurality level;41;Huila;41396;La Plata;Intermedio;intermedio;Fuera SC;Fuera SC;827604108.9;147800.0799
+825;12It12;Rurality level;41;Huila;41483;Nátaga;Rural;Rural;Fuera SC;Fuera SC;128728707.6;57361.0702
+826;12It12;Rurality level;41;Huila;41503;Oporapa;Rural;Rural;Fuera SC;Fuera SC;155021841.1;63536.00225
+827;12It12;Rurality level;41;Huila;41518;Paicol;Rural;Rural;Fuera SC;Fuera SC;281382584.4;93783.24213
+828;12It12;Rurality level;41;Huila;41524;Palermo;Rural;Rural;Fuera SC;Fuera SC;884772760.7;167377.7806
+829;12It12;Rurality level;41;Huila;41530;Palestina;Rural;Rural;Fuera SC;Fuera SC;173466352.3;65302.22848
+830;12It12;Rurality level;41;Huila;41548;Pital;Intermedio;intermedio;Fuera SC;Fuera SC;183735696.1;74052.57345
+831;12It12;Rurality level;41;Huila;41551;Pitalito;Intermedio;intermedio;Fuera SC;Fuera SC;638260660.1;138934.8612
+832;12It12;Rurality level;41;Huila;41615;Rivera;Rural;intermedio;Fuera SC;Fuera SC;252592443.8;68285.68867
+833;12It12;Rurality level;41;Huila;41660;Saladoblanco;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;465843470.9;121891.4366
+834;12It12;Rurality level;41;Huila;41668;San Agustín;Rural;Rural;Fuera SC;Fuera SC;1403191964;193074.6381
+835;12It12;Rurality level;41;Huila;41676;Santa María;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;340594685.8;86634.71381
+836;12It12;Rurality level;41;Huila;41770;Suaza;Rural Disperso;Rural;Fuera SC;Fuera SC;435480817;90548.05587
+837;12It12;Rurality level;41;Huila;41791;Tarqui;Rural;Rural;Fuera SC;Fuera SC;366660776.5;85562.8167
+838;12It12;Rurality level;41;Huila;41797;Tesalia;Rural;Rural;Fuera SC;Fuera SC;366420239.5;95542.43835
+839;12It12;Rurality level;41;Huila;41799;Tello;Rural;Rural;Fuera SC;Fuera SC;526838139.8;124882.072
+840;12It12;Rurality level;41;Huila;41801;Teruel;Rural;Rural;Fuera SC;Fuera SC;475005191.1;163890.1579
+841;12It12;Rurality level;41;Huila;41807;Timaná;Intermedio;intermedio;Fuera SC;Fuera SC;189535721.4;62263.32862
+842;12It12;Rurality level;41;Huila;41872;Villavieja;Rural;Rural;Fuera SC;Fuera SC;547290376.6;121682.1284
+843;12It12;Rurality level;41;Huila;41885;Yaguará;Rural;Rural;Fuera SC;Fuera SC;331289717.9;83443.48277
+844;12It12;Rurality level;41;Huila;41298;Garzón;Intermedio;intermedio;Fuera SC;Fuera SC;612351031.9;123786.4829
+845;12It12;Rurality level;41;Huila;41244;Elías;Rural;intermedio;Fuera SC;Fuera SC;79573519.44;46551.99996
+846;12It12;Rurality level;41;Huila;41206;Colombia;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1592394371;229878.1876
+847;12It12;Rurality level;41;Huila;41132;Campoalegre;Intermedio;intermedio;Fuera SC;Fuera SC;465385703.9;98092.19955
+848;12It12;Rurality level;41;Huila;41078;Baraya;Rural;Rural;Fuera SC;Fuera SC;795218339.3;135464.1003
+849;12It12;Rurality level;41;Huila;41026;Altamira;Rural;Rural;Fuera SC;Fuera SC;178925659.5;63779.07108
+850;12It12;Rurality level;41;Huila;41020;Algeciras;Rural;Rural;Fuera SC;Fuera SC;593991966.2;123402.1358
+851;12It12;Rurality level;41;Huila;41016;Aipe;Rural;Rural;Fuera SC;Fuera SC;799927807.2;185681.3385
+852;12It12;Rurality level;41;Huila;41013;Agrado;Rural;Rural;Fuera SC;Fuera SC;282069268.1;70336.37937
+853;12It12;Rurality level;41;Huila;41006;Acevedo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;543152187.8;113634.6346
+854;12It12;Rurality level;44;La Guajira;44078;Barrancas;Rural;Rural;Fuera SC;Fuera SC;842229689.6;137712.9404
+855;12It12;Rurality level;44;La Guajira;44098;Distracción;Intermedio;intermedio;Fuera SC;Fuera SC;244437547;81122.22296
+856;12It12;Rurality level;44;La Guajira;44110;El Molino;Rural;Rural;Fuera SC;Fuera SC;252913778.9;69678.77758
+857;12It12;Rurality level;44;La Guajira;44279;Fonseca;Intermedio;intermedio;Fuera SC;Fuera SC;484420096.2;119895.5678
+858;12It12;Rurality level;44;La Guajira;44378;Hatonuevo;Intermedio;intermedio;Fuera SC;Fuera SC;220293803;102484.9616
+859;12It12;Rurality level;44;La Guajira;44420;La Jagua del Pilar;Rural;Rural;Fuera SC;Fuera SC;185168161.3;93005.38925
+860;12It12;Rurality level;44;La Guajira;44855;Urumita;Intermedio;Rural;Fuera SC;Fuera SC;256081316.8;96615.32236
+861;12It12;Rurality level;44;La Guajira;44874;Villanueva;Intermedio;intermedio;Fuera SC;Fuera SC;266020751.7;77364.58807
+862;12It12;Rurality level;47;Magdalena;47541;Pedraza;Rural;Rural;Fuera SC;Fuera SC;336494770.9;89653.80807
+863;12It12;Rurality level;47;Magdalena;47030;Algarrobo;Rural;Rural;Fuera SC;Fuera SC;419754351.6;109163.8905
+864;12It12;Rurality level;47;Magdalena;47058;Ariguaní;Rural;Rural;Fuera SC;Fuera SC;1177760137;157546.5564
+865;12It12;Rurality level;47;Magdalena;47161;Cerro San Antonio;Rural;intermedio;Fuera SC;Fuera SC;185780487.4;68761.28756
+866;12It12;Rurality level;47;Magdalena;47170;Chivolo;Rural;Rural;Fuera SC;Fuera SC;544098425.9;109401.4488
+867;12It12;Rurality level;47;Magdalena;47205;Concordia;Intermedio;intermedio;Fuera SC;Fuera SC;108753274.3;51950.26577
+868;12It12;Rurality level;47;Magdalena;47245;El Banco;Intermedio;intermedio;Fuera SC;Fuera SC;832599406.7;152684.5617
+869;12It12;Rurality level;47;Magdalena;47258;El Piñon;Rural;Rural;Fuera SC;Fuera SC;581405962.8;115742.2081
+870;12It12;Rurality level;47;Magdalena;47268;El Retén;Intermedio;intermedio;Fuera SC;Fuera SC;270429094.2;86014.12057
+871;12It12;Rurality level;47;Magdalena;47318;Guamal;Rural Disperso;Rural;Fuera SC;Fuera SC;578669474.9;113405.9823
+872;12It12;Rurality level;47;Magdalena;47460;Nueva Granada;Rural;Rural;Fuera SC;Fuera SC;875375914.3;141385.6257
+873;12It12;Rurality level;47;Magdalena;47545;Pijiño del Carmen;Rural;Rural;Fuera SC;Fuera SC;671036414.2;210933.0612
+874;12It12;Rurality level;47;Magdalena;47551;Pivijay;Rural;Rural;Fuera SC;Fuera SC;1706923133;193336.7346
+875;12It12;Rurality level;47;Magdalena;47555;Plato;Intermedio;intermedio;Fuera SC;Fuera SC;1516339062;225323.9659
+876;12It12;Rurality level;47;Magdalena;47570;Puebloviejo;Rural;Rural;Fuera SC;Fuera SC;716810324.9;131173.0512
+877;12It12;Rurality level;47;Magdalena;47605;Remolino;Rural;Rural;Fuera SC;Fuera SC;625870345.4;106570.797
+878;12It12;Rurality level;47;Magdalena;47660;Sabanas de San Angel;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1283704994;201317.7776
+879;12It12;Rurality level;47;Magdalena;47675;Salamina;Rural;intermedio;Fuera SC;Fuera SC;174150674;56585.35243
+880;12It12;Rurality level;47;Magdalena;47692;San Sebastián de Buenavista;Rural;Rural;Fuera SC;Fuera SC;454589937.5;133228.3433
+881;12It12;Rurality level;47;Magdalena;47703;San Zenón;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;280973578.4;109122.5346
+882;12It12;Rurality level;47;Magdalena;47707;Santa Ana;Rural;Rural;Fuera SC;Fuera SC;1162965507;274433.0388
+883;12It12;Rurality level;47;Magdalena;47720;Santa Bárbara de Pinto;Rural;Rural;Fuera SC;Fuera SC;510361482.8;108770.6769
+884;12It12;Rurality level;47;Magdalena;47745;Sitionuevo;Rural;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;1012109441;162480.7949
+885;12It12;Rurality level;47;Magdalena;47798;Tenerife;Rural;Rural;Fuera SC;Fuera SC;510197314.6;99720.83012
+886;12It12;Rurality level;47;Magdalena;47960;Zapayán;Rural;Rural;Fuera SC;Fuera SC;377433049.1;104255.67
+887;12It12;Rurality level;47;Magdalena;47980;Zona Bananera;Intermedio;intermedio;Fuera SC;Fuera SC;456905145.5;98779.53324
+888;12It12;Rurality level;50;Meta;50001;Villavicencio;Ciudades y aglomeraciones;Nodo;A-Villavicencio;Centro aglomeración;1302198736;196197.8822
+889;12It12;Rurality level;50;Meta;50006;Acacías;Intermedio;intermedio;Fuera SC;Fuera SC;1142156441;196111.132
+890;12It12;Rurality level;50;Meta;50110;Barranca de Upía;Rural Disperso;Rural;Fuera SC;Fuera SC;399134575.5;110117.9902
+891;12It12;Rurality level;50;Meta;50124;Cabuyaro;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;926725983.8;144616.3575
+892;12It12;Rurality level;50;Meta;50150;Castilla la Nueva;Rural;Rural;Fuera SC;Fuera SC;522480231.7;117446.8575
+893;12It12;Rurality level;50;Meta;50223;Cubarral;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1172716880;208950.9248
+894;12It12;Rurality level;50;Meta;50226;Cumaral;Rural;Rural;Fuera SC;Fuera SC;635830731.9;155820.7684
+895;12It12;Rurality level;50;Meta;50245;El Calvario;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;283634223.9;77618.3285
+896;12It12;Rurality level;50;Meta;50251;El Castillo;Rural;Rural;Fuera SC;Fuera SC;574859943.5;105857.281
+897;12It12;Rurality level;50;Meta;50270;El Dorado;Rural;Rural;Fuera SC;Fuera SC;119138429.2;42927.80905
+898;12It12;Rurality level;50;Meta;50287;Fuente de Oro;Rural;Rural;Fuera SC;Fuera SC;579402701.7;125919.7252
+899;12It12;Rurality level;50;Meta;50313;Granada;Intermedio;intermedio;Fuera SC;Fuera SC;350406284.3;96253.30959
+900;12It12;Rurality level;50;Meta;50318;Guamal;Rural;Rural;Fuera SC;Fuera SC;602445860;144736.87
+901;12It12;Rurality level;50;Meta;50330;Mesetas;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2304452538;315114.433
+902;12It12;Rurality level;50;Meta;50370;Uribe;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;6495858033;460281.8093
+903;12It12;Rurality level;50;Meta;50400;Lejanías;Rural;Rural;Fuera SC;Fuera SC;822304153.3;158262.9164
+904;12It12;Rurality level;50;Meta;50450;Puerto Concordia;Rural;Rural Disperso;Fuera SC;Fuera SC;1244088220;212146.2635
+905;12It12;Rurality level;50;Meta;50573;Puerto López;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;6990400384;445901.6347
+906;12It12;Rurality level;50;Meta;50577;Puerto Lleras;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2564118605;274951.8879
+907;12It12;Rurality level;50;Meta;50590;Puerto Rico;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3457594125;254834.2087
+908;12It12;Rurality level;50;Meta;50606;Restrepo;Rural;Aglomeración Villavicencio;A-Villavicencio;En aglomeración;367561939.2;171125.709
+909;12It12;Rurality level;50;Meta;50680;San Carlos de Guaroa;Rural;Rural;Fuera SC;Fuera SC;812944631.6;135370.6596
+910;12It12;Rurality level;50;Meta;50683;San Juan de Arama;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1180460145;210941.9031
+911;12It12;Rurality level;50;Meta;50686;San Juanito;Rural;Rural Disperso;Fuera SC;Fuera SC;241441037.1;65903.80623
+912;12It12;Rurality level;50;Meta;50689;San Martín;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;5981666491;463147.2087
+913;12It12;Rurality level;50;Meta;50711;Vistahermosa;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;4850435683;427387.2634
+914;12It12;Rurality level;86;Putumayo;86001;Mocoa;Intermedio;Intermedio;SA-Otros SC;Uninodal;1316591653;225424.5332
+915;12It12;Rurality level;86;Putumayo;86219;Colón;Intermedio;intermedio;Fuera SC;Fuera SC;61255458.1;38601.01876
+916;12It12;Rurality level;86;Putumayo;86320;Orito;Rural;Rural;Fuera SC;Fuera SC;1948845227;215383.4872
+917;12It12;Rurality level;86;Putumayo;86749;Sibundoy;Intermedio;intermedio;Fuera SC;Fuera SC;93166800.37;49280.60864
+918;12It12;Rurality level;86;Putumayo;86755;San Francisco;Rural;Rural;Fuera SC;Fuera SC;404540994.3;107559.601
+919;12It12;Rurality level;86;Putumayo;86757;San Miguel;Rural;Rural Disperso;Fuera SC;Fuera SC;376795196.2;123376.9935
+920;12It12;Rurality level;86;Putumayo;86760;Santiago;Rural;Rural;Fuera SC;Fuera SC;339986345;92171.34931
+921;12It12;Rurality level;86;Putumayo;86865;Valle del Guamuez;Intermedio;Rural;Fuera SC;Fuera SC;816401776.2;166111.2713
+922;12It12;Rurality level;86;Putumayo;86885;Villagarzón;Rural;Rural;Fuera SC;Fuera SC;1402760708;184538.0099
+923;12It12;Rurality level;63;Quindio;63001;Armenia;Ciudades y aglomeraciones;Nodo;A-Armenia;Centro aglomeración - Nodo;129329503.3;64994.69908
+924;12It12;Rurality level;63;Quindio;63111;Buenavista;Intermedio;intermedio;Fuera SC;Fuera SC;38646817.73;25450.35744
+925;12It12;Rurality level;63;Quindio;63130;Calarca;Ciudades y aglomeraciones;Aglomeración Armenia;A-Armenia;En aglomeración;225799911;86084.26326
+926;12It12;Rurality level;63;Quindio;63190;Circasia;Ciudades y aglomeraciones;Aglomeración Armenia;A-Armenia;En aglomeración;93766860.78;48717.98302
+927;12It12;Rurality level;63;Quindio;63212;Córdoba;Intermedio;intermedio;Fuera SC;Fuera SC;94372513.1;44174.45245
+928;12It12;Rurality level;63;Quindio;63272;Filandia;Intermedio;intermedio;Fuera SC;Fuera SC;111006520.1;55864.54224
+929;12It12;Rurality level;63;Quindio;63302;Génova;Rural;Rural;Fuera SC;Fuera SC;295950364.5;78352.75345
+930;12It12;Rurality level;63;Quindio;63401;La Tebaida;Ciudades y aglomeraciones;Aglomeración Armenia;A-Armenia;En aglomeración;83185187.7;42257.23659
+931;12It12;Rurality level;63;Quindio;63470;Montenegro;Intermedio;intermedio;Fuera SC;Fuera SC;142860556;54820.48297
+932;12It12;Rurality level;63;Quindio;63548;Pijao;Rural;Rural;Fuera SC;Fuera SC;251100792.8;74047.81122
+933;12It12;Rurality level;63;Quindio;63594;Quimbaya;Intermedio;intermedio;Fuera SC;Fuera SC;135636643.9;49971.00084
+934;12It12;Rurality level;63;Quindio;63690;Salento;Rural;Rural;Fuera SC;Fuera SC;344920084.3;92432.56829
+935;12It12;Rurality level;66;Risaralda;66001;Pereira;Ciudades y aglomeraciones;Nodo;A-Pereira;Centro aglomeración - Nodo;617893265.1;180499.3266
+936;12It12;Rurality level;66;Risaralda;66045;Apía;Intermedio;intermedio;Fuera SC;Fuera SC;156208111;67791.65996
+937;12It12;Rurality level;66;Risaralda;66075;Balboa;Rural Disperso;Rural;Fuera SC;Fuera SC;125478259.5;42521.9585
+938;12It12;Rurality level;66;Risaralda;66088;Belén de Umbría;Intermedio;intermedio;Fuera SC;Fuera SC;182878510.2;52483.36685
+939;12It12;Rurality level;66;Risaralda;66170;Dosquebradas;Ciudades y aglomeraciones;Aglomeración Pereira;A-Pereira;En aglomeración;69688707.79;33189.14497
+940;12It12;Rurality level;66;Risaralda;66318;Guática;Intermedio;intermedio;Fuera SC;Fuera SC;96990814.6;46570.75313
+941;12It12;Rurality level;66;Risaralda;66383;La Celia;Intermedio;intermedio;Fuera SC;Fuera SC;89884777.53;49003.40012
+942;12It12;Rurality level;66;Risaralda;66400;La Virginia;Intermedio;intermedio;Fuera SC;Fuera SC;32548367.28;23434.66406
+943;12It12;Rurality level;66;Risaralda;66440;Marsella;Intermedio;intermedio;Fuera SC;Fuera SC;152159361.9;56543.54914
+944;12It12;Rurality level;66;Risaralda;66594;Quinchía;Intermedio;intermedio;Fuera SC;Fuera SC;139149958.5;44933.35952
+945;12It12;Rurality level;66;Risaralda;66682;Santa Rosa de Cabal;Ciudades y aglomeraciones;Aglomeración Pereira;A-Pereira;En aglomeración;555770916.3;115150.1049
+946;12It12;Rurality level;66;Risaralda;66687;Santuario;Intermedio;intermedio;Fuera SC;Fuera SC;191540450.6;80044.01395
+947;12It12;Rurality level;70;Sucre;70001;Sincelejo;Ciudades y aglomeraciones;Aglomeración;SA-Montería-Sincelejo;Uninodal;286086644.4;82620.49197
+948;12It12;Rurality level;70;Sucre;70110;Buenavista;Intermedio;intermedio;Fuera SC;Fuera SC;150074644.2;73540.79168
+949;12It12;Rurality level;70;Sucre;70124;Caimito;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;428810903;99622.81193
+950;12It12;Rurality level;70;Sucre;70204;Coloso;Rural;intermedio;Fuera SC;Fuera SC;127020172.9;57891.42382
+951;12It12;Rurality level;70;Sucre;70215;Corozal;Intermedio;intermedio;Fuera SC;Fuera SC;294229075.8;103678.5609
+952;12It12;Rurality level;70;Sucre;70221;Coveñas;Intermedio;intermedio;Fuera SC;Fuera SC;59923842.17;39688.879
+953;12It12;Rurality level;70;Sucre;70230;Chalán;Intermedio;intermedio;Fuera SC;Fuera SC;85799941.65;42831.7904
+954;12It12;Rurality level;70;Sucre;70233;El Roble;Intermedio;intermedio;Fuera SC;Fuera SC;207852380.8;94663.51977
+955;12It12;Rurality level;70;Sucre;70235;Galeras;Intermedio;intermedio;Fuera SC;Fuera SC;324626368.4;86290.91024
+956;12It12;Rurality level;70;Sucre;70265;Guaranda;Rural;Rural;Fuera SC;Fuera SC;370983313.4;119930.6031
+957;12It12;Rurality level;70;Sucre;70400;La Unión;Rural;intermedio;Fuera SC;Fuera SC;241906873.3;86925.94194
+958;12It12;Rurality level;70;Sucre;70418;Los Palmitos;Intermedio;intermedio;Fuera SC;Fuera SC;205244591.4;71346.45142
+959;12It12;Rurality level;70;Sucre;70429;Majagual;Rural;Rural Disperso;Fuera SC;Fuera SC;863605018.7;139305.1891
+960;12It12;Rurality level;70;Sucre;70473;Morroa;Intermedio;intermedio;Fuera SC;Fuera SC;172344046.1;51924.75456
+961;12It12;Rurality level;70;Sucre;70508;Ovejas;Rural;Rural;Fuera SC;Fuera SC;471665139.2;104765.9514
+962;12It12;Rurality level;70;Sucre;70523;Palmito;Intermedio;intermedio;Fuera SC;Fuera SC;181242075.1;57016.9555
+963;12It12;Rurality level;70;Sucre;70670;Sampués;Intermedio;intermedio;Fuera SC;Fuera SC;222858141;78717.14513
+964;12It12;Rurality level;70;Sucre;70678;San Benito Abad;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1531951725;246840.5862
+965;12It12;Rurality level;70;Sucre;70702;San Juan de Betulia;Intermedio;intermedio;Fuera SC;Fuera SC;173516057.3;60844.57879
+966;12It12;Rurality level;70;Sucre;70708;San Marcos;Intermedio;intermedio;Fuera SC;Fuera SC;992832345.4;134623.1917
+967;12It12;Rurality level;70;Sucre;70713;San Onofre;Rural;Rural;Fuera SC;Fuera SC;1069417864;177498.5236
+968;12It12;Rurality level;70;Sucre;70717;San Pedro;Intermedio;intermedio;Fuera SC;Fuera SC;218163650.7;55875.33521
+969;12It12;Rurality level;70;Sucre;70742;San Luis de Sincé;Intermedio;intermedio;Fuera SC;Fuera SC;440613509.5;109495.641
+970;12It12;Rurality level;70;Sucre;70771;Sucre;Rural;Rural Disperso;Fuera SC;Fuera SC;1177325402;174052.0794
+971;12It12;Rurality level;70;Sucre;70820;Santiago de Tolú;Intermedio;intermedio;Fuera SC;Fuera SC;315034346.5;87959.28775
+972;12It12;Rurality level;70;Sucre;70823;Tolú Viejo;Rural;intermedio;Fuera SC;Fuera SC;313577176.5;83674.80881
+973;12It12;Rurality level;73;Tolima;73001;Ibagué;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;1393580622;236529.1838
+974;12It12;Rurality level;73;Tolima;73024;Alpujarra;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;513618665.6;97405.09936
+975;12It12;Rurality level;73;Tolima;73026;Alvarado;Rural;Rural;Fuera SC;Fuera SC;356596198.8;80931.94347
+976;12It12;Rurality level;73;Tolima;73030;Ambalema;Rural;Rural;Fuera SC;Fuera SC;236831697.1;75743.15082
+977;12It12;Rurality level;73;Tolima;73043;Anzoátegui;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;469023064.2;109303.3613
+978;12It12;Rurality level;73;Tolima;73055;Armero;Rural;Rural;Fuera SC;Fuera SC;448725801.3;112048.1977
+979;12It12;Rurality level;73;Tolima;73067;Ataco;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1027664145;197164.2016
+980;12It12;Rurality level;73;Tolima;73124;Cajamarca;Rural;Rural;Fuera SC;Fuera SC;518807887.3;102571.1571
+981;12It12;Rurality level;73;Tolima;73148;Carmen de Apicalá;Rural;intermedio;Fuera SC;Fuera SC;195954719.9;65770.78678
+982;12It12;Rurality level;73;Tolima;73152;Casabianca;Rural;Rural Disperso;Fuera SC;Fuera SC;176444740.8;99032.88055
+983;12It12;Rurality level;73;Tolima;73168;Chaparral;Intermedio;intermedio;Fuera SC;Fuera SC;2131127329;237085.0024
+984;12It12;Rurality level;73;Tolima;73200;Coello;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;344980789.4;98963.74195
+985;12It12;Rurality level;73;Tolima;73217;Coyaima;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;675767458.2;124805.5693
+986;12It12;Rurality level;73;Tolima;73226;Cunday;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;510014663.1;118390.1082
+987;12It12;Rurality level;73;Tolima;73236;Dolores;Rural;Rural;Fuera SC;Fuera SC;662587913.2;179130.507
+988;12It12;Rurality level;73;Tolima;73268;Espinal;Intermedio;intermedio;Fuera SC;Fuera SC;222371685;72327.8206
+989;12It12;Rurality level;73;Tolima;73270;Falan;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;183163307.5;65323.04473
+990;12It12;Rurality level;73;Tolima;73275;Flandes;Intermedio;Aglomeracion Girardot;A-Girardot;En aglomeración;93066209.07;45316.67707
+991;12It12;Rurality level;73;Tolima;73283;Fresno;Intermedio;intermedio;Fuera SC;Fuera SC;217600931.7;69993.93204
+992;12It12;Rurality level;73;Tolima;73319;Guamo;Intermedio;intermedio;Fuera SC;Fuera SC;509036243.8;104608.3844
+993;12It12;Rurality level;73;Tolima;73347;Herveo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;331774172.2;94338.82242
+994;12It12;Rurality level;73;Tolima;73349;Honda;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;303021469.3;95444.70653
+995;12It12;Rurality level;73;Tolima;73352;Icononzo;Intermedio;intermedio;Fuera SC;Fuera SC;225096461.4;79815.73736
+996;12It12;Rurality level;73;Tolima;73408;Lérida;Intermedio;intermedio;Fuera SC;Fuera SC;267594228.8;79417.22819
+997;12It12;Rurality level;73;Tolima;73411;Líbano;Intermedio;intermedio;Fuera SC;Fuera SC;286175078.8;77300.23798
+998;12It12;Rurality level;73;Tolima;73443;Mariquita;Intermedio;intermedio;Fuera SC;Fuera SC;306706230;68413.05071
+999;12It12;Rurality level;73;Tolima;73449;Melgar;Intermedio;intermedio;Fuera SC;Fuera SC;200250084.3;79394.85449
+1000;12It12;Rurality level;73;Tolima;73461;Murillo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;429564228.3;94724.2332
+1001;12It12;Rurality level;73;Tolima;73483;Natagaima;Rural;Rural;Fuera SC;Fuera SC;862903628.4;143937.0141
+1002;12It12;Rurality level;73;Tolima;73504;Ortega;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;965846073.9;144362.7799
+1003;12It12;Rurality level;73;Tolima;73520;Palocabildo;Intermedio;intermedio;Fuera SC;Fuera SC;66145083.02;31636.76531
+1004;12It12;Rurality level;73;Tolima;73547;Piedras;Rural;Rural;Fuera SC;Fuera SC;369484595.2;102861.2883
+1005;12It12;Rurality level;73;Tolima;73555;Planadas;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1773410549;201510.7075
+1006;12It12;Rurality level;73;Tolima;73563;Prado;Rural;Rural;Fuera SC;Fuera SC;435470414;95490.00684
+1007;12It12;Rurality level;73;Tolima;73585;Purificación;Intermedio;intermedio;Fuera SC;Fuera SC;397728983.6;123320.7439
+1008;12It12;Rurality level;73;Tolima;73616;Rioblanco;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2064727090;211165.607
+1009;12It12;Rurality level;73;Tolima;73622;Roncesvalles;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;780240262.2;126199.0159
+1010;12It12;Rurality level;73;Tolima;73624;Rovira;Rural;Rural;Fuera SC;Fuera SC;749181756.1;140498.4315
+1011;12It12;Rurality level;73;Tolima;73671;Saldaña;Intermedio;intermedio;Fuera SC;Fuera SC;200210944;76081.48698
+1012;12It12;Rurality level;73;Tolima;73675;San Antonio;Rural Disperso;Rural;Fuera SC;Fuera SC;386076467.4;102192.6297
+1013;12It12;Rurality level;73;Tolima;73678;San Luis;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;413309235.6;137554.7786
+1014;12It12;Rurality level;73;Tolima;73686;Santa Isabel;Rural;Rural;Fuera SC;Fuera SC;272540777.9;116516.9071
+1015;12It12;Rurality level;73;Tolima;73770;Suárez;Rural;Rural;Fuera SC;Fuera SC;188161029.8;97195.49993
+1016;12It12;Rurality level;73;Tolima;73854;Valle de San Juan;Rural;Rural;Fuera SC;Fuera SC;201161624.1;60305.10644
+1017;12It12;Rurality level;73;Tolima;73861;Venadillo;Intermedio;Rural;Fuera SC;Fuera SC;340735946.6;92256.81484
+1018;12It12;Rurality level;73;Tolima;73870;Villahermosa;Rural;Rural;Fuera SC;Fuera SC;285932884.8;88931.26893
+1019;12It12;Rurality level;73;Tolima;73873;Villarrica;Rural;Rural;Fuera SC;Fuera SC;438211092.2;90317.21271
+1020;12It12;Rurality level;13;Bolívar;13001;Cartagena;Ciudades y aglomeraciones;Nodo;A-Cartagena;Centro aglomeración - Nodo;602400407.2;232414.4446
+1021;12It12;Rurality level;13;Bolívar;13006;Achí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;984078447.9;161790.5793
+1022;12It12;Rurality level;13;Bolívar;13030;Altos del Rosario;Rural;Rural;Fuera SC;Fuera SC;310329709.6;85730.38166
+1023;12It12;Rurality level;13;Bolívar;13042;Arenal;Rural Disperso;Rural;Fuera SC;Fuera SC;471644252.1;141739.3084
+1024;12It12;Rurality level;13;Bolívar;13052;Arjona;Ciudades y aglomeraciones;Aglomeración Cartagena;A-Cartagena;En aglomeración;600864731.4;125882.9186
+1025;12It12;Rurality level;13;Bolívar;13062;Arroyohondo;Intermedio;intermedio;Fuera SC;Fuera SC;160852174.3;59418.4023
+1026;12It12;Rurality level;13;Bolívar;13074;Barranco de Loba;Rural;Rural;Fuera SC;Fuera SC;439712857.8;143404.4457
+1027;12It12;Rurality level;13;Bolívar;13140;Calamar;Intermedio;intermedio;Fuera SC;Fuera SC;273061861.7;113234.0284
+1028;12It12;Rurality level;13;Bolívar;13160;Cantagallo;Rural;Rural Disperso;Fuera SC;Fuera SC;902198323.7;156818.4123
+1029;12It12;Rurality level;13;Bolívar;13188;Cicuco;Intermedio;intermedio;Fuera SC;Fuera SC;131586026.1;47754.3964
+1030;12It12;Rurality level;13;Bolívar;13212;Córdoba;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;616686591.9;116085.1951
+1031;12It12;Rurality level;13;Bolívar;13222;Clemencia;Ciudades y aglomeraciones;Aglomeración Cartagena;A-Cartagena;En aglomeración;88247013.04;44296.82852
+1032;12It12;Rurality level;13;Bolívar;13244;El Carmen de Bolívar;Intermedio;intermedio;Fuera SC;Fuera SC;977056566.2;168261.7603
+1033;12It12;Rurality level;13;Bolívar;13248;El Guamo;Rural;Rural;Fuera SC;Fuera SC;393017936.3;84884.86524
+1034;12It12;Rurality level;13;Bolívar;13268;El Peñón;Rural;Rural;Fuera SC;Fuera SC;324659358.6;84995.06552
+1035;12It12;Rurality level;13;Bolívar;13300;Hatillo de Loba;Rural;Rural;Fuera SC;Fuera SC;189403901.5;109322.3189
+1036;12It12;Rurality level;13;Bolívar;13430;Magangué;Intermedio;intermedio;Fuera SC;Fuera SC;1173638547;216838.7911
+1037;12It12;Rurality level;13;Bolívar;13433;Mahates;Intermedio;intermedio;Fuera SC;Fuera SC;457107336;107984.2733
+1038;12It12;Rurality level;13;Bolívar;13440;Margarita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;312165498.8;87604.24527
+1039;12It12;Rurality level;13;Bolívar;13442;María La Baja;Intermedio;intermedio;Fuera SC;Fuera SC;586303450.7;106731.9133
+1040;12It12;Rurality level;13;Bolívar;13458;Montecristo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2144669630;312732.8006
+1041;12It12;Rurality level;13;Bolívar;13468;Mompós;Intermedio;intermedio;Fuera SC;Fuera SC;669634353.1;115527.1056
+1042;12It12;Rurality level;13;Bolívar;13473;Morales;Rural Disperso;Rural;Fuera SC;Fuera SC;1391342587;192977.5317
+1043;12It12;Rurality level;13;Bolívar;13490;Norosí;Rural;Rural Disperso;Fuera SC;Fuera SC;423352090.6;98967.99859
+1044;12It12;Rurality level;13;Bolívar;13549;Pinillos;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;807707329.5;184886.3596
+1045;12It12;Rurality level;13;Bolívar;13580;Regidor;Intermedio;Rural;Fuera SC;Fuera SC;188073308.6;73063.47824
+1046;12It12;Rurality level;13;Bolívar;13600;Río Viejo;Rural;Rural;Fuera SC;Fuera SC;878189920.6;268094.9166
+1047;12It12;Rurality level;13;Bolívar;13620;San Cristóbal;Ciudades y aglomeraciones;Aglomeración Barranquilla;A-Barranquilla;En aglomeración;45001150.56;28121.98247
+1048;12It12;Rurality level;13;Bolívar;13647;San Estanislao;Intermedio;intermedio;Fuera SC;Fuera SC;219258111;63805.68062
+1049;12It12;Rurality level;13;Bolívar;13650;San Fernando;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;334998433.9;97425.67207
+1050;12It12;Rurality level;13;Bolívar;13654;San Jacinto;Rural;intermedio;Fuera SC;Fuera SC;458561542.7;113262.9831
+1051;12It12;Rurality level;13;Bolívar;13655;San Jacinto del Cauca;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;573327764.4;152817.6047
+1052;12It12;Rurality level;13;Bolívar;13657;San Juan Nepomuceno;Intermedio;intermedio;Fuera SC;Fuera SC;659554711.2;136091.6331
+1053;12It12;Rurality level;13;Bolívar;13667;San Martín de Loba;Rural;Rural;Fuera SC;Fuera SC;466028439.8;126582.3331
+1054;12It12;Rurality level;13;Bolívar;13670;San Pablo;Intermedio;Rural;Fuera SC;Fuera SC;2067582797;269552.7397
+1055;12It12;Rurality level;13;Bolívar;13673;Santa Catalina;Intermedio;intermedio;Fuera SC;Fuera SC;182920143.7;85854.71284
+1056;12It12;Rurality level;13;Bolívar;13683;Santa Rosa;Ciudades y aglomeraciones;Aglomeración Cartagena;A-Cartagena;En aglomeración;156838613.5;50809.14039
+1057;12It12;Rurality level;13;Bolívar;13688;Santa Rosa del Sur;Rural;Rural;Fuera SC;Fuera SC;2432101439;303893.9734
+1058;12It12;Rurality level;13;Bolívar;13744;Simití;Rural;Rural;Fuera SC;Fuera SC;1394965917;221950.9514
+1059;12It12;Rurality level;13;Bolívar;13760;Soplaviento;Intermedio;intermedio;Fuera SC;Fuera SC;95965024.91;51023.32249
+1060;12It12;Rurality level;13;Bolívar;13780;Talaigua Nuevo;Rural;intermedio;Fuera SC;Fuera SC;258336954.4;88397.15152
+1061;12It12;Rurality level;13;Bolívar;13810;Tiquisio;Rural Disperso;Rural;Fuera SC;Fuera SC;790638149.5;149733.1117
+1062;12It12;Rurality level;13;Bolívar;13836;Turbaco;Ciudades y aglomeraciones;Aglomeración Cartagena;A-Cartagena;En aglomeración;214459735;60975.79801
+1063;12It12;Rurality level;13;Bolívar;13838;Turbaná;Ciudades y aglomeraciones;Aglomeración Cartagena;A-Cartagena;En aglomeración;196657902.3;84330.05355
+1064;12It12;Rurality level;13;Bolívar;13873;Villanueva;Ciudades y aglomeraciones;Aglomeración Cartagena;A-Cartagena;En aglomeración;145668776.8;59773.64102
+1065;12It12;Rurality level;13;Bolívar;13894;Zambrano;Rural;Rural;Fuera SC;Fuera SC;319660000.6;82249.68844
+1066;12It12;Rurality level;99;Vichada;99624;Santa Rosalía;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;3934390592;294348.4995
+1067;12It12;Rurality level;54;Norte de Santander;54001;Cúcuta;Ciudades y aglomeraciones;Nodo;A-Cúcuta;Centro aglomeración;1160235234;230627.5971
+1068;12It12;Rurality level;54;Norte de Santander;54003;Abrego;Rural;Rural;Fuera SC;Fuera SC;1418582237;203839.7853
+1069;12It12;Rurality level;54;Norte de Santander;54051;Arboledas;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;467411083.7;110570.4068
+1070;12It12;Rurality level;54;Norte de Santander;54099;Bochalema;Rural;Rural;Fuera SC;Fuera SC;171732479.5;73675.51731
+1071;12It12;Rurality level;54;Norte de Santander;54109;Bucarasica;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;279393251.3;70948.93542
+1072;12It12;Rurality level;54;Norte de Santander;54125;Cácota;Rural Disperso;Rural;Fuera SC;Fuera SC;144459363.9;52006.83224
+1073;12It12;Rurality level;54;Norte de Santander;54128;Cachirá;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;638875911.5;152927.1934
+1074;12It12;Rurality level;54;Norte de Santander;54172;Chinácota;Intermedio;intermedio;Fuera SC;Fuera SC;168762686.1;69503.12998
+1075;12It12;Rurality level;54;Norte de Santander;54223;Cucutilla;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;381761205.8;86540.45693
+1076;12It12;Rurality level;54;Norte de Santander;54239;Durania;Rural;Rural;Fuera SC;Fuera SC;178135957.4;58197.62304
+1077;12It12;Rurality level;54;Norte de Santander;54261;El Zulia;Rural;intermedio;Fuera SC;Fuera SC;523255088.2;130328.8545
+1078;12It12;Rurality level;54;Norte de Santander;54313;Gramalote;Rural;Rural;Fuera SC;Fuera SC;153172142.8;66796.41025
+1079;12It12;Rurality level;54;Norte de Santander;54344;Hacarí;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;430582129.2;91576.37809
+1080;12It12;Rurality level;54;Norte de Santander;54347;Herrán;Rural Disperso;Rural;Fuera SC;Fuera SC;110502489.3;55978.46713
+1081;12It12;Rurality level;54;Norte de Santander;54377;Labateca;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;257499752.6;79611.5563
+1082;12It12;Rurality level;54;Norte de Santander;54385;La Esperanza;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;688688777.3;156444.3507
+1083;12It12;Rurality level;54;Norte de Santander;54398;La Playa;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;244364420.1;95799.40386
+1084;12It12;Rurality level;54;Norte de Santander;54405;Los Patios;Ciudades y aglomeraciones;Aglomeración Cúcuta;A-Cúcuta;En aglomeración;131786380.9;60208.43173
+1085;12It12;Rurality level;54;Norte de Santander;54418;Lourdes;Rural;Rural;Fuera SC;Fuera SC;90458657.2;46278.23688
+1086;12It12;Rurality level;54;Norte de Santander;54480;Mutiscua;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;160806169.8;50309.67434
+1087;12It12;Rurality level;54;Norte de Santander;54498;Ocaña;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;534534962.4;156037.0884
+1088;12It12;Rurality level;54;Norte de Santander;54518;Pamplona;Ciudades y aglomeraciones;Función Subregional;SA-Otros SC;Uninodal;303135929.1;96532.8538
+1089;12It12;Rurality level;54;Norte de Santander;54520;Pamplonita;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;176206941.5;60354.28471
+1090;12It12;Rurality level;54;Norte de Santander;54553;Puerto Santander;Intermedio;intermedio;Fuera SC;Fuera SC;48966988.82;31341.4686
+1091;12It12;Rurality level;54;Norte de Santander;54599;Ragonvalia;Intermedio;intermedio;Fuera SC;Fuera SC;96859635.28;41591.84835
+1092;12It12;Rurality level;54;Norte de Santander;54660;Salazar;Rural;Rural;Fuera SC;Fuera SC;510305783.2;99697.06835
+1093;12It12;Rurality level;54;Norte de Santander;54670;San Calixto;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;409058492.4;128079.1698
+1094;12It12;Rurality level;54;Norte de Santander;54673;San Cayetano;Rural;Aglomeración Cúcuta;A-Cúcuta;En aglomeración;141514834.3;58904.93931
+1095;12It12;Rurality level;54;Norte de Santander;54680;Santiago;Rural;Rural;Fuera SC;Fuera SC;173039479.1;60198.26811
+1096;12It12;Rurality level;54;Norte de Santander;54720;Sardinata;Rural;Rural;Fuera SC;Fuera SC;1507097101;229005.7859
+1097;12It12;Rurality level;54;Norte de Santander;54743;Silos;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;325950529.3;80136.79851
+1098;12It12;Rurality level;54;Norte de Santander;54871;Villa Caro;Rural;Rural;Fuera SC;Fuera SC;408802063.5;111243.6597
+1099;12It12;Rurality level;54;Norte de Santander;54874;Villa del Rosario;Ciudades y aglomeraciones;Aglomeración Cúcuta;A-Cúcuta;En aglomeración;90524405.73;65057.8451
+1100;12It12;Rurality level;5;Antioquia;5234;Dabeiba;Rural;Rural;Fuera SC;Fuera SC;2003466210;258368.281
+1101;12It12;Rurality level;5;Antioquia;5284;Frontino;Rural;Rural;Fuera SC;Fuera SC;1406098812;219950.9629
+1102;12It12;Rurality level;5;Antioquia;5361;Ituango;Rural Disperso;Rural;Fuera SC;Fuera SC;2902104029;324388.4042
+1103;12It12;Rurality level;5;Antioquia;5847;Urrao;Rural;Rural;Fuera SC;Fuera SC;2610689740;273004.2422
+1104;12It12;Rurality level;15;Boyacá;15180;Chiscas;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;671874919.8;125378.5301
+1105;12It12;Rurality level;15;Boyacá;15223;Cubará;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1202735999;185818.4797
+1106;12It12;Rurality level;15;Boyacá;15332;Güicán;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;963002362.8;148584.7529
+1107;12It12;Rurality level;17;Caldas;17614;Riosucio;Intermedio;intermedio;Fuera SC;Fuera SC;392548173.5;97576.19742
+1108;12It12;Rurality level;18;Caquetá;18610;San José del Fragua;Rural;Rural Disperso;Fuera SC;Fuera SC;1319223395;181451.0734
+1109;12It12;Rurality level;18;Caquetá;18860;Valparaíso;Rural;Rural Disperso;Fuera SC;Fuera SC;1336915979;214544.8819
+1110;12It12;Rurality level;19;Cauca;19256;El Tambo;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;2764504979;289660.891
+1111;12It12;Rurality level;20;Cesar;20001;Valledupar;Ciudades y aglomeraciones;Aglomeración;SA-Otros SC;Uninodal;4372417427;391322.9535
+1112;12It12;Rurality level;20;Cesar;20013;Agustín Codazzi;Intermedio;intermedio;Fuera SC;Fuera SC;1831604234;241361.1087
+1113;12It12;Rurality level;20;Cesar;20045;Becerril;Rural;Rural;Fuera SC;Fuera SC;1263345972;202006.9556
+1114;12It12;Rurality level;20;Cesar;20621;La Paz;Rural;Rural;Fuera SC;Fuera SC;1107228610;298261.6614
+1115;12It12;Rurality level;23;Córdoba;23466;Montelíbano;Intermedio;intermedio;Fuera SC;Fuera SC;1596974229;377184.8254
+1116;12It12;Rurality level;23;Córdoba;23580;Puerto Libertador;Rural;Rural;Fuera SC;Fuera SC;1680817265;231711.4028
+1117;12It12;Rurality level;23;Córdoba;23807;Tierralta;Intermedio;intermedio;Fuera SC;Fuera SC;5056900625;352759.604
+1118;12It12;Rurality level;27;Chocó;27615;Riosucio;Rural Disperso;Rural;Fuera SC;Fuera SC;7757932986;587288.6595
+1119;12It12;Rurality level;44;La Guajira;44001;Riohacha;Ciudades y aglomeraciones;Aglomeración;SA-Riohacha-Maicao;Uninodal;3221465666;272548.5606
+1120;12It12;Rurality level;44;La Guajira;44035;Albania;Rural;intermedio;Fuera SC;Fuera SC;580642487.7;118732.9119
+1121;12It12;Rurality level;44;La Guajira;44090;Dibulla;Rural Disperso;Rural Disperso;Fuera SC;Fuera SC;1830964684;188186.555
+1122;12It12;Rurality level;44;La Guajira;44650;San Juan del Cesar;Rural;intermedio;Fuera SC;Fuera SC;1366300642;228837.9427

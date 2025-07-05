@@ -30,8 +30,8 @@ regions <- read.csv('../Data/Categorias_de_Ruralidad.csv',sep = ";") %>%
   add_row(cod_mpio = '27493',dpto = 'Chocó',mpio = 'Nuevo Belén de Bajirá',region = 'Rural')
 # --------------------------------- Data ---------------------------------------
 cods11 <- c('11102','11265','11279','11769','11848','11850')
-deaths <- readRDS('../Data/deaths_1980_2023.rds') %>% 
-  filter(sex %in% sexs,!is.na(cause),!is.na(age_group)) %>% 
+deaths_tot <- readRDS('../Data/deaths_1980_2023.rds') %>% 
+  filter(sex %in% sexs,!is.na(age_group5)) %>% 
   # Cause external, non-exteral
   mutate(cause_ext = ifelse(cause == 'External causes','External causes','Non-external causes')) %>%
   # Fix divipola
@@ -86,7 +86,7 @@ popref <- popnac %>% filter(year == 2000) %>%
 # Year - Sex ####
 lifeexp_sex <- popnac %>% group_by(year,sex,age_group5) %>%
   summarise(N = sum(pop),.groups = 'drop') %>%
-  left_join(deaths %>% group_by(year,sex,age_group5) %>% 
+  left_join(deaths_tot %>% group_by(year,sex,age_group5) %>% 
               summarise(D = n(),.groups = "drop"),by = c('year','sex','age_group5')) %>%
   mutate(year_aux = year) %>%
   left_join(data.frame(age_group5 = age_groups5,
@@ -112,7 +112,7 @@ lifeexp_sex <- popnac %>% group_by(year,sex,age_group5) %>%
 # Year ####
 lifeexp <- popnac %>% group_by(year,age_group5) %>%
   summarise(N = sum(pop),.groups = 'drop') %>%
-  left_join(deaths %>% group_by(year,age_group5) %>% 
+  left_join(deaths_tot %>% group_by(year,age_group5) %>% 
               summarise(D = n(),.groups = "drop"),by = c('year','age_group5')) %>%
   mutate(year_aux = year) %>%
   left_join(data.frame(age_group5 = age_groups5,
@@ -141,7 +141,7 @@ lifeexp_decade <- popnac %>% group_by(year,age_group5) %>%
   mutate(decade = floor(year/10)*10) %>%
   group_by(decade,age_group5) %>%
   summarise(N = sum(pop),.groups = 'drop') %>%
-  left_join(deaths %>% mutate(decade = floor(year/10)*10) %>%
+  left_join(deaths_tot %>% mutate(decade = floor(year/10)*10) %>%
               group_by(decade,age_group5) %>% 
               summarise(D = n(),.groups = "drop"),by = c('decade','age_group5')) %>%
   mutate(year_aux = decade) %>%
@@ -167,6 +167,7 @@ lifeexp_decade <- popnac %>% group_by(year,age_group5) %>%
   select(decade,LE0 = le)
 
 # ---------------------------------- Analysis ----------------------------------
+deaths <- deaths_tot %>% filter(!is.na(cause));rm(deaths_tot)
 # Deaths by year, sex, cause_ext and age_group ####
 d_ij <- deaths %>% group_by(year,sex,cause_ext,age_group) %>% 
   summarise(dij = n(),.groups = 'drop') %>%
@@ -262,25 +263,53 @@ r_regimej <- popbdua %>% group_by(year,regime,sex,age_group) %>%
   full_join(d_regimej %>% filter(year>=2012),by = c('year','sex','regime','age_group')) %>%
   mutate(rregj = dregj/nregj) %>% left_join(popref,by = 'age_group') %>%
   mutate(rregj_std = rregj*prop_ref)
-# Deaths by year, sex, cause and age_group ####
+# Deaths by year, sex, non-external cause and age_group ####
 d_i2j <- deaths %>% group_by(year,sex,cause,age_group) %>% 
   summarise(dij = n(),.groups = 'drop') %>%
   mutate(dij = ifelse(!{year == 1991&age_group %in% age_groups[1:3]},dij,NA)) %>%
   full_join(expand.grid(year = 1990,age_group = age_groups[1:3],sex = sexs,
-                        cause = unique(deaths$cause)),by = c('year','age_group','sex','cause')) %>%
+                        cause = unique(deaths$cause)),
+            by = c('year','age_group','sex','cause')) %>%
   mutate(dij = ifelse({year == 1990&age_group %in% age_groups[1:3]},0,dij)) %>%
   arrange(sex,cause,age_group,year) %>%
   group_by(sex,cause,age_group) %>%
   mutate(dij = zoo::na.approx(dij)) %>% ungroup %>%
   filter(dij >= 10) %>%
   full_join(expand.grid(year = 1980:2023,age_group = age_groups,sex = sexs,
-                        cause = unique(deaths$cause)),by = c('year','age_group','sex','cause')) %>%
+                        cause = unique(deaths$cause)),
+            by = c('year','age_group','sex','cause')) %>%
   replace_na(list(dij = 0)) %>%
   filter(!{sex == 'Male'&cause == 'Maternal diseases'})
-# Deaths rates by year, sex, cause and age_group in standard population ####
+# Deaths rates by year, sex, non-external cause and age_group in standard population ####
 r_i2j <- popnac %>% group_by(year,sex,age_group) %>%
   summarise(nj = sum(pop),.groups = 'drop') %>%
   full_join(d_i2j,by = c('year','sex','age_group')) %>%
+  mutate(rij = dij/nj) %>% left_join(popref,by = 'age_group') %>%
+  mutate(rij_std = rij*prop_ref)  
+# Deaths by year, sex, external cause and age_group ####
+d_i3j <- deaths %>% filter(!is.na(ext_cause)) %>%
+  group_by(year,sex,ext_cause,age_group) %>% 
+  summarise(dij = n(),.groups = 'drop') %>%
+  bind_rows(deaths %>% filter(cause == 'External causes') %>%
+              group_by(year,sex,ext_cause = cause,age_group) %>% 
+              summarise(dij = n(),.groups = 'drop')) %>%
+  mutate(dij = ifelse(!{year == 1991&age_group %in% age_groups[1:3]},dij,NA)) %>%
+  full_join(expand.grid(year = 1990,age_group = age_groups[1:3],sex = sexs,
+                        ext_cause = c('External causes','Accidents','Assault','Intentional self-harm')),
+            by = c('year','age_group','sex','ext_cause')) %>%
+  mutate(dij = ifelse({year == 1990&age_group %in% age_groups[1:3]},0,dij)) %>%
+  arrange(sex,ext_cause,age_group,year) %>%
+  group_by(sex,ext_cause,age_group) %>%
+  mutate(dij = zoo::na.approx(dij)) %>% ungroup %>%
+  filter(dij >= 10) %>%
+  full_join(expand.grid(year = 1980:2023,age_group = age_groups,sex = sexs,
+                        ext_cause = c('External causes','Accidents','Assault','Intentional self-harm')),
+            by = c('year','age_group','sex','ext_cause')) %>%
+  replace_na(list(dij = 0))
+# Deaths rates by year, sex, external cause and age_group in standard population ####
+r_i3j <- popnac %>% group_by(year,sex,age_group) %>%
+  summarise(nj = sum(pop),.groups = 'drop') %>%
+  full_join(d_i3j,by = c('year','sex','age_group')) %>%
   mutate(rij = dij/nj) %>% left_join(popref,by = 'age_group') %>%
   mutate(rij_std = rij*prop_ref)  
 # Deaths by year, sex, regime, cause and age_group ####
@@ -519,17 +548,6 @@ fig_ylli <- yllnac_sex_excess %>% mutate(cause_ext = 'Overall') %>%
   theme_classic(base_size = 18)+
   theme(legend.position = 'bottom',legend.key.width = unit(2,'cm'))
 
-# yllnac_sex %>% mutate(cause_ext = 'Overall') %>%
-#   bind_rows(yllnac_sex_ext) %>%
-#   ggplot(aes(x = year,y = yll_std,group = cause_ext)) +
-#   facet_wrap(sex~.)+
-#   geom_line(aes(color = cause_ext),lwd = 1)+
-#   labs(x = 'Year',y = 'Difference of standardised YLLs (x 100,000)',
-#        color = '') +
-#   scale_y_continuous(n.breaks = 10,labels = scales::label_number(big.mark = ','))+
-#   scale_x_continuous(breaks = seq(1980,2023,5))+
-#   theme_classic(base_size = 18)+
-#   theme(legend.position = 'bottom')
 fig_smr_regime <- mrregime_sex %>% 
   mutate(regime2 = ifelse(regime == 'contr','Contributory','Subsidised')) %>%
   mutate(sex_regime = paste0(sex,'-',regime2)) %>%
@@ -580,16 +598,9 @@ fig_le <- lifeexp %>% mutate(sex = 'Both') %>% bind_rows(lifeexp_sex) %>%
   scale_x_continuous(breaks = seq(1980,2023,5))+
   scale_linetype_manual(values = c(3,1,2)) +
   theme_classic(base_size = 16)+
-  theme(legend.direction = 'vertical',legend.position = 'inside',
+  theme(legend.direction = 'vertical',
         legend.key.width = unit(1,'cm'),
-        legend.position.inside = c(0.9,0.2),legend.margin = margin(0,0,0,0))
-# fig_le <- lifeexp %>%
-#   ggplot(aes(x = year,y = LE0)) +
-#   geom_line(lwd = 1,color = 'gray30')+
-#   labs(x = 'Year',y = 'Life expectancy at birth') +
-#   scale_y_continuous(n.breaks = 10,labels = scales::label_number(big.mark = ','))+
-#   scale_x_continuous(breaks = seq(1980,2023,5))+
-#   theme_classic(base_size = 16)
+        legend.margin = margin(0,0,0,0))
 
 # Maps by department ####
 map1 <- readRDS("../Data/MunicipiosBien.rds")
@@ -637,7 +648,7 @@ fig_dpto <- ggplot() + geom_sf(data = data_map,aes(fill = smr_excess)) +
   theme(legend.position = 'bottom',
         legend.key.width = unit(1,'cm'),
         legend.text = element_text(size = 11))
-# Heatmap by cause of death ####
+# Heatmap by external cause of death ####
 fig_heatmap <- r_i2j %>% filter(cause != 'External causes') %>%
   select(year,sex,age_group,cause,rij_std) %>%
   pivot_wider(id_cols = c(year,age_group,cause),
@@ -650,13 +661,32 @@ fig_heatmap <- r_i2j %>% filter(cause != 'External causes') %>%
   scale_fill_steps2(breaks = seq(-10,24,5),low = '#0ca2cb',high = '#db2732',
                     mid = 'gray100',midpoint = 0,na.value = "gray75",
                     guide = "coloursteps")+
-  # scale_fill_gradient2(low = '#0ca2cb',high = '#db2732',midpoint = 0,
-  #                                  na.value = "gray75",
-  #                      limits = c(-10,24))+
-  labs(x = 'Year',y = 'Cause of death',fill = 'Difference in standardised mortality rate (x 100,000)')+
+  labs(x = 'Year',y = 'Non-external cause of death',fill = 'Difference in standardised mortality rate (x 100,000)')+
   theme_classic(base_size = 18)+
   theme(legend.position = 'bottom',strip.text = element_text(face = 'bold'),
         legend.key.width = unit(1.5,'cm'),strip.background.x = element_rect(color = 'white'))
+# Heatmap by external cause of death ####
+fig_heatmap_ext <- r_i3j %>% 
+  select(year,sex,age_group,ext_cause,rij_std) %>%
+  pivot_wider(id_cols = c(year,age_group,ext_cause),
+              names_from = sex,values_from = rij_std) %>%
+  mutate(smr_excess = (Male-Female)*scl) %>% select(-sexs) %>%
+  mutate(age_group = factor(age_group,levels = age_groups),
+         ext_cause = factor(ext_cause,levels = rev(c('External causes','Accidents','Assault','Intentional self-harm')))) %>%
+  ggplot(aes(x = year,y = ext_cause,fill = smr_excess)) +
+  facet_wrap(age_group~.)+
+  geom_tile()+
+  scale_fill_steps2(breaks = seq(0,100,20),low = '#0ca2cb',high = '#db2732',
+                    mid = 'gray100',midpoint = 0,na.value = "gray75",
+                    guide = "coloursteps")+
+  # scale_fill_gradient2(low = '#0ca2cb',high = '#db2732',midpoint = 0,
+  #                                  na.value = "gray75",
+  #                      limits = c(-10,24))+
+  labs(x = 'Year',y = 'External cause of death',fill = 'Difference in standardised mortality rate (x 100,000)')+
+  theme_classic(base_size = 18)+
+  theme(legend.position = 'bottom',strip.text = element_text(face = 'bold'),
+        legend.key.width = unit(1.5,'cm'),strip.background.x = element_rect(color = 'white'))
+
 # SMR by cause, regime and sex ####
 causes <- c('Infectious and parasitic diseases','Neoplasms','Diseases of the blood',
             'Endocrine, nutritional, and metabolic diseases','Mental and behavioural disorders',
@@ -842,7 +872,12 @@ tabs2 <- full_join(aux_tabs2_excess,
   arrange(age_group,decade)
 
 ################################################################################
-# Export ####
+# Export Excel Supplementary ####
+# Tables
+# writexl::write_xlsx(list('Table 1'=tab1,'Table 2'=tab2),
+#                     path = '../Supplementary Excel file.xlsx')
+
+# Export Paper ####
 # Tables
 tabdec <- function(x){formatC(x,digits = 2,format='f')}
 writexl::write_xlsx(list(tab1 %>% 
@@ -859,20 +894,26 @@ writexl::write_xlsx(list(tab1 %>%
                     path = '../Results/TablesExport.xlsx')
 # Figures
 library(patchwork)
-fig1 <- (fig_smri+labs(subtitle = '(A)') +fig_ylli+labs(subtitle = '(B)'))/
-  (fig_smr_regime+labs(subtitle = '(C)')+fig_smr_region+labs(subtitle = '(D)'))
+fig1 <- (fig_smri+labs(subtitle = '(a)')+theme(legend.position = 'bottom',
+                                               plot.subtitle = element_text(hjust = 0.5)) +
+           fig_ylli+labs(subtitle = '(b)')+theme(legend.position = 'bottom',
+                                                 plot.subtitle = element_text(hjust = 0.5)))/
+  (fig_smr_regime+labs(subtitle = '(c)')+theme(legend.position = 'bottom',
+                                               plot.subtitle = element_text(hjust = 0.5))+
+     fig_smr_region+labs(subtitle = '(d)')+theme(legend.position = 'bottom',
+                                                plot.subtitle = element_text(hjust = 0.5)))
 ggsave(plot = fig1,filename = '../Results/Figure1.png',
        width = 40,height = 35,units = 'cm')
 ggsave(plot = fig_smrij,filename = '../Results/Figure2.png',
        width = 50,height = 25,units = 'cm')
 ggsave(plot = fig_le,filename = '../Results/FigureS1.png',
-       width = 15,height = 10,units = 'cm')
+       width = 20,height = 10,units = 'cm')
 ggsave(plot = fig_heatmap,filename = '../Results/FigureS2.png',
        width = 40,height = 30,units = 'cm')
-ggsave(plot = fig_cause_regime,filename = '../Results/FigureS3.png',
+ggsave(plot = fig_heatmap_ext,filename = '../Results/FigureS3.png',
+       width = 40,height = 25,units = 'cm')
+ggsave(plot = fig_cause_regime,filename = '../Results/FigureS4.png',
        width = 50,height = 40,units = 'cm')
-ggsave(plot = fig_dpto,filename = '../Results/FigureS4.png',
-       width = 40,height = 30,units = 'cm')
 ggsave(plot = fig_prop_male_subs,filename = '../Results/FigureS5.png',
        width = 50,height = 40,units = 'cm')
 ggsave(plot = fig_prop_male_contr,filename = '../Results/FigureS6.png',
@@ -881,3 +922,5 @@ ggsave(plot = fig_prop_female_subs,filename = '../Results/FigureS7.png',
        width = 50,height = 40,units = 'cm')
 ggsave(plot = fig_prop_female_contr,filename = '../Results/FigureS8.png',
        width = 50,height = 40,units = 'cm')
+ggsave(plot = fig_dpto,filename = '../Results/FigureS9.png',
+       width = 40,height = 30,units = 'cm')
